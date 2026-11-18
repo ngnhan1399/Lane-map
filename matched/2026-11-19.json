@@ -1,0 +1,593 @@
+{
+  "run_date": "2026-11-19",
+  "today": "2026-11-19",
+  "results": [
+    {
+      "record": {
+        "allowed_direction": null,
+        "city": "TP.HCM",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Trương Công Định",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "đường Trường Chinh, đoạn từ Trương Công Định đến Đồng Đen, cấm xe tải và ô tô khách, trừ xe buýt, lưu thông theo hướng từ đường Trương Công Định đến Đồng Đen.",
+              "từ 7/11 cấm xe tải, xe khách qua một đoạn đường Trường Chinh"
+            ],
+            "published": "2026-10-31",
+            "tier": "B",
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-tu-7-11-cam-xe-tai-xe-khach-qua-mot-doan-duong-truong-chinh-d56434.html"
+          },
+          {
+            "evidence": [
+              "đường Trường Chinh, đoạn từ Trương Công Định đến Đồng Đen, cấm xe tải và ôtô khách, ngoại trừ xe buýt, lưu thông theo hướng từ đường Trương Công Định đến Đồng Đen.",
+              "Phương án điều chỉnh được áp dụng từ ngày 7.11.2026."
+            ],
+            "published": "2026-10-30",
+            "tier": "B",
+            "url": "https://laodong.vn/xa-hoi/tphcm-cam-xe-tai-xe-khach-qua-mot-doan-duong-truong-chinh-tu-ngay-711-1791786.ldo"
+          },
+          {
+            "evidence": [
+              "Theo đó, kể từ ngày 7.11, xe tải và xe khách (trừ xe buýt) bị cấm lưu thông trên đường Trường Chinh theo hướng từ đường Trương Công Định đến đường Đồng Đen."
+            ],
+            "published": "2026-11-10",
+            "tier": "B",
+            "url": "https://thanhnien.vn/duong-truong-chinh-o-tphcm-them-rao-chan-nguoi-di-xe-may-len-loi-tim-loi-ra-185261110105405209.htm"
+          }
+        ],
+        "start": "2026-11-07",
+        "street": "Trường Chinh",
+        "to_cross": "Đồng Đen",
+        "turn": null,
+        "type": "VEHICLE_BAN",
+        "vehicles": [
+          "truck",
+          "coach"
+        ],
+        "ward_or_district": null
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-tu-7-11-cam-xe-tai-xe-khach-qua-mot-doan-duong-truong-chinh-d56434.html",
+            "tier": "B"
+          },
+          {
+            "url": "https://thanhnien.vn/duong-truong-chinh-o-tphcm-them-rao-chan-nguoi-di-xe-may-len-loi-tim-loi-ra-185261110105405209.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7990075,
+            106.641949
+          ],
+          [
+            10.7989771,
+            106.6420232
+          ],
+          [
+            10.7989695,
+            106.6420988
+          ],
+          [
+            10.7989876,
+            106.6422071
+          ],
+          [
+            10.7989869,
+            106.6422453
+          ],
+          [
+            10.7989612,
+            106.6423264
+          ],
+          [
+            10.7985569,
+            106.6430751
+          ],
+          [
+            10.7980188,
+            106.6440715
+          ],
+          [
+            10.7979616,
+            106.6441664
+          ],
+          [
+            10.7978969,
+            106.6442179
+          ],
+          [
+            10.7977824,
+            106.6442631
+          ],
+          [
+            10.7977515,
+            106.6443865
+          ],
+          [
+            10.797643,
+            106.6445884
+          ],
+          [
+            10.7974927,
+            106.6448681
+          ],
+          [
+            10.7973514,
+            106.645131
+          ],
+          [
+            10.7972206,
+            106.6453745
+          ],
+          [
+            10.7971275,
+            106.6455477
+          ],
+          [
+            10.7969829,
+            106.6458168
+          ],
+          [
+            10.7969504,
+            106.6458773
+          ]
+        ],
+        "length_m": 494.5,
+        "way_nodes": [
+          11438217258,
+          11438217257,
+          11438395319,
+          11761069827,
+          6640150566,
+          6640150567,
+          2081354538,
+          2409408743,
+          3152632056,
+          11438719530,
+          2409408739,
+          11438719528,
+          11452099342,
+          11452099345,
+          10736696525,
+          11452099346,
+          2079964446,
+          11443990861,
+          11443990834
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "primary"
+        ]
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null
+    },
+    {
+      "record": {
+        "allowed_direction": null,
+        "city": "TP.HCM",
+        "daily_hours": "16:00-19:00",
+        "end": null,
+        "from_cross": "Hoàng Văn Thụ",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Cụ thể đường Phan Đình Phùng (đoạn từ đường Hoàng Văn Thụ đến Nguyễn Trọng Tuyển) sẽ được điều chỉnh cấm ô tô lưu thông trong khoảng thời gian từ 16h đến 19h, thay vì từ 15h đến 20h như trước đây.",
+              "Phương án sẽ được áp dụng từ ngày 15-11."
+            ],
+            "published": "2026-11-10",
+            "tier": "B",
+            "url": "https://tuoitre.vn/tphcm-ap-dung-loat-dieu-chinh-giao-thong-tai-nga-tu-phu-nhuan-tu-15-11-100261110165454755.htm"
+          },
+          {
+            "evidence": [
+              "đường Phan Đình Phùng đoạn từ đường Hoàng Văn Thụ đến Nguyễn Trọng Tuyển sẽ cấm ô tô lưu thông từ 16h đến 19h, thay vì áp dụng từ 15h đến 20h như trước đây",
+              "Phương án mới bắt đầu từ ngày 15/11."
+            ],
+            "published": "2026-11-10",
+            "tier": "B",
+            "url": "https://dantri.com.vn/thoi-su/thu-hep-pham-vi-cam-o-to-theo-khung-gio-tren-duong-phan-dinh-phung-o-tphcm-20261110193405706.htm"
+          }
+        ],
+        "start": "2026-11-15",
+        "street": "Phan Đình Phùng",
+        "to_cross": "Nguyễn Trọng Tuyển",
+        "turn": null,
+        "type": "VEHICLE_BAN",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": "phường Phú Nhuận"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://tuoitre.vn/tphcm-ap-dung-loat-dieu-chinh-giao-thong-tai-nga-tu-phu-nhuan-tu-15-11-100261110165454755.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://dantri.com.vn/thoi-su/thu-hep-pham-vi-cam-o-to-theo-khung-gio-tren-duong-phan-dinh-phung-o-tphcm-20261110193405706.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7991874,
+            106.680278
+          ],
+          [
+            10.7991159,
+            106.6803103
+          ],
+          [
+            10.7985183,
+            106.6805811
+          ],
+          [
+            10.79847,
+            106.6806025
+          ],
+          [
+            10.7982085,
+            106.6807181
+          ],
+          [
+            10.7977184,
+            106.6809486
+          ],
+          [
+            10.7976671,
+            106.6809722
+          ],
+          [
+            10.7975937,
+            106.6810059
+          ],
+          [
+            10.7975692,
+            106.6809952
+          ],
+          [
+            10.7972993,
+            106.6811159
+          ],
+          [
+            10.7971937,
+            106.6811632
+          ]
+        ],
+        "length_m": 242.8,
+        "way_nodes": [
+          5724654562,
+          5724654561,
+          5724654558,
+          14280037427,
+          11578265622,
+          5764914940,
+          14385106520,
+          14075318083,
+          14075318086,
+          14086133960,
+          3638268672
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "primary"
+        ]
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null
+    },
+    {
+      "record": {
+        "allowed_direction": null,
+        "city": "TP.HCM",
+        "daily_hours": "16:00-19:00",
+        "end": null,
+        "from_cross": null,
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Đường Phan Đăng Lưu (tại giao lộ với đường Nguyễn Kiệm và Phan Đình Phùng) được điều chỉnh cấm ô tô rẽ trái từ đường Phan Đăng Lưu vào Phan Đình Phùng trong khoảng thời gian từ 16h đến 19h.",
+              "Phương án sẽ được áp dụng từ ngày 15-11."
+            ],
+            "published": "2026-11-10",
+            "tier": "B",
+            "url": "https://tuoitre.vn/tphcm-ap-dung-loat-dieu-chinh-giao-thong-tai-nga-tu-phu-nhuan-tu-15-11-100261110165454755.htm"
+          },
+          {
+            "evidence": [
+              "Tại giao lộ Phan Đăng Lưu - Nguyễn Kiệm - Phan Đình Phùng, thời gian cấm ô tô rẽ trái từ đường Phan Đăng Lưu vào đường Phan Đình Phùng là từ 16h đến 19h (trước đây cấm từ 15h đến 20h).",
+              "Phương án mới bắt đầu từ ngày 15/11."
+            ],
+            "published": "2026-11-10",
+            "tier": "B",
+            "url": "https://dantri.com.vn/thoi-su/thu-hep-pham-vi-cam-o-to-theo-khung-gio-tren-duong-phan-dinh-phung-o-tphcm-20261110193405706.htm"
+          }
+        ],
+        "start": "2026-11-15",
+        "street": "Phan Đăng Lưu",
+        "to_cross": null,
+        "turn": "từ Phan Đăng Lưu rẽ trái sang Phan Đình Phùng bị cấm",
+        "type": "TURN_BAN",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": "phường Phú Nhuận"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://tuoitre.vn/tphcm-ap-dung-loat-dieu-chinh-giao-thong-tai-nga-tu-phu-nhuan-tu-15-11-100261110165454755.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://dantri.com.vn/thoi-su/thu-hep-pham-vi-cam-o-to-theo-khung-gio-tren-duong-phan-dinh-phung-o-tphcm-20261110193405706.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "turn": {
+          "from": [
+            [
+              10.799506153153317,
+              106.68071027442622
+            ],
+            [
+              10.7991874,
+              106.680278
+            ]
+          ],
+          "via": [
+            10.7991874,
+            106.680278
+          ],
+          "to": [
+            [
+              10.7991874,
+              106.680278
+            ],
+            [
+              10.798694401179723,
+              106.68050130046943
+            ]
+          ],
+          "kind": "no_left_turn"
+        },
+        "check_from": [
+          10.7997704,
+          106.6809681
+        ],
+        "check_to": [
+          10.7985183,
+          106.6805811
+        ],
+        "via_node": 5724654562,
+        "via_approx": false,
+        "turn_angle_deg": -92.9
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null,
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 0.263,
+          "route_km": 0.197
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 0.263,
+          "route_km": 0.197
+        },
+        "osm_knows": true
+      },
+      "osm_knows": true
+    },
+    {
+      "record": {
+        "allowed_direction": "từ Yết Kiêu đến Quán Sứ",
+        "city": "Hà Nội",
+        "daily_hours": null,
+        "end": "2027-05-31",
+        "from_cross": "Yết Kiêu",
+        "notice_no": "1686/TB-SXD",
+        "sources": [
+          {
+            "evidence": [
+              "Cụ thể, trên đường Trần Hưng Đạo, đoạn từ đường Yết Kiêu đến đường Quán Sứ, các phương tiện xe máy được lưu thông hai chiều; ô-tô chỉ được lưu thông một chiều theo hướng từ đường Yết Kiêu đi đường Quán Sứ.",
+              "Phương án được triển khai từ ngày 19/11/2026 đến hết ngày 31/5/2027 nhằm bảo đảm an toàn giao thông, hạn chế ùn tắc trong thời gian thi công."
+            ],
+            "published": "2026-11-18",
+            "tier": "B",
+            "url": "https://nhandan.vn/tu-ngay-1911-dieu-chinh-to-chuc-giao-thong-tren-duong-tran-hung-dao-va-quan-su-post1003610.html"
+          },
+          {
+            "evidence": [
+              "trên đường Trần Hưng Đạo, đoạn từ đường Yết Kiêu đến đường Quán Sứ, các phương tiện xe máy được lưu thông hai chiều; ôtô chỉ được lưu thông một chiều theo hướng từ Yết Kiêu đi Quán Sứ.",
+              "Từ ngày 19.11.2026 đến hết ngày 31.5.2027, TP Hà Nội điều chỉnh tổ chức giao thông trên đường Trần Hưng Đạo và Quán Sứ để phục vụ thi công ga ngầm S12 thuộc dự án đường sắt đô thị Nhổn - ga Hà Nội."
+            ],
+            "published": "2026-11-18",
+            "tier": "B",
+            "url": "https://laodong.vn/giao-thong/ha-noi-phan-luong-giao-thong-duong-tran-hung-dao-quan-su-phuc-vu-thi-cong-ga-s12-1802549.ldo"
+          }
+        ],
+        "start": "2026-11-19",
+        "street": "Trần Hưng Đạo",
+        "to_cross": "Quán Sứ",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": "phường Cửa Nam"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://nhandan.vn/tu-ngay-1911-dieu-chinh-to-chuc-giao-thong-tren-duong-tran-hung-dao-va-quan-su-post1003610.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": null,
+      "match_error": "no_intersection:Yết Kiêu",
+      "level": "REJECT",
+      "level_reason": "no_intersection:Yết Kiêu"
+    },
+    {
+      "record": {
+        "allowed_direction": "từ Trần Hưng Đạo đến Lý Thường Kiệt",
+        "city": "Hà Nội",
+        "daily_hours": null,
+        "end": "2027-05-31",
+        "from_cross": "Lý Thường Kiệt",
+        "notice_no": "1686/TB-SXD",
+        "sources": [
+          {
+            "evidence": [
+              "Đối với đường Quán Sứ, đoạn từ đường Lý Thường Kiệt đến đường Trần Hưng Đạo, xe máy được phép lưu thông hai chiều; ô-tô lưu thông một chiều theo hướng từ đường Trần Hưng Đạo đi đường Lý Thường Kiệt.",
+              "Phương án được triển khai từ ngày 19/11/2026 đến hết ngày 31/5/2027 nhằm bảo đảm an toàn giao thông, hạn chế ùn tắc trong thời gian thi công."
+            ],
+            "published": "2026-11-18",
+            "tier": "B",
+            "url": "https://nhandan.vn/tu-ngay-1911-dieu-chinh-to-chuc-giao-thong-tren-duong-tran-hung-dao-va-quan-su-post1003610.html"
+          },
+          {
+            "evidence": [
+              "Trên đường Quán Sứ, đoạn từ đường Lý Thường Kiệt đến đường Trần Hưng Đạo, xe máy được lưu thông hai chiều; ôtô chỉ được lưu thông một chiều theo hướng từ đường Trần Hưng Đạo đi Lý Thường Kiệt.",
+              "Từ ngày 19.11.2026 đến hết ngày 31.5.2027, TP Hà Nội điều chỉnh tổ chức giao thông trên đường Trần Hưng Đạo và Quán Sứ để phục vụ thi công ga ngầm S12 thuộc dự án đường sắt đô thị Nhổn - ga Hà Nội."
+            ],
+            "published": "2026-11-18",
+            "tier": "B",
+            "url": "https://laodong.vn/giao-thong/ha-noi-phan-luong-giao-thong-duong-tran-hung-dao-quan-su-phuc-vu-thi-cong-ga-s12-1802549.ldo"
+          }
+        ],
+        "start": "2026-11-19",
+        "street": "Quán Sứ",
+        "to_cross": "Trần Hưng Đạo",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": "phường Cửa Nam"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://nhandan.vn/tu-ngay-1911-dieu-chinh-to-chuc-giao-thong-tren-duong-tran-hung-dao-va-quan-su-post1003610.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": null,
+      "match_error": "street_not_found",
+      "level": "REJECT",
+      "level_reason": "street_not_found"
+    },
+    {
+      "record": {
+        "allowed_direction": "từ Trần Khánh Dư đến Trần Khát Chân",
+        "city": "Hà Nội",
+        "daily_hours": "22:00-05:00",
+        "end": "2026-12-20",
+        "from_cross": "Trần Khánh Dư",
+        "notice_no": "1688/TB-SXD",
+        "sources": [
+          {
+            "evidence": [
+              "Phố Lương Yên (đoạn từ cột 19A gần cửa khẩu Vân Đồn đến trước số nhà 81, dài khoảng 506m): Đơn vị thi công dùng rào tôn di động theo từng phân đoạn 20m, thực hiện từ 22h hôm trước đến 5h sáng hôm sau. Lòng đường còn lại 3-3,5m; xe máy được đi hai chiều, trong khi ô tô chỉ được lưu thông một chiều theo hướng từ Trần Khánh Dư đi Trần Khát Chân.",
+              "Theo Thông báo số 1688/TB-SXD, Sở Xây dựng Hà Nội vừa chính thức điều chỉnh tổ chức phân luồng giao thông trên các tuyến phố Lương Yên, Trần Khát Chân và Kim Ngưu. Việc rào chắn nhằm phục vụ thi công tuyến cáp ngầm 110kV (đoạn từ HN3 đến vị trí cột 19A) thuộc Dự án Cải tạo đường dây 110kV Mai Động - Trần Hưng Đạo, triển khai từ ngày 20.11.2026 đến 25.1.2027."
+            ],
+            "published": "2026-11-17",
+            "tier": "B",
+            "url": "https://laodong.vn/giao-thong/ha-noi-phan-luong-3-tuyen-pho-han-che-oto-tu-ngay-2011-1802088.ldo"
+          }
+        ],
+        "start": "2026-11-20",
+        "street": "Lương Yên",
+        "to_cross": "Trần Khát Chân",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": null
+      },
+      "evidence": {
+        "valid_sources": [],
+        "field_checks": {},
+        "reject_reason": "evidence_not_found"
+      },
+      "match": null,
+      "match_error": null,
+      "level": "REJECT",
+      "level_reason": "evidence_not_found"
+    }
+  ]
+}

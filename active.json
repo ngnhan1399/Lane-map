@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-11-18T11:20:07+07:00",
+  "generated_at": "2026-11-19T05:11:33+07:00",
   "osm_date": "2026-11-17",
   "attribution": "© OpenStreetMap contributors (ODbL). Overlay compiled from official notices and press reports; see logs/ for sources.",
   "records": [
@@ -636,6 +636,325 @@
         "tier": "A",
         "notice_no": null,
         "published": "2026-09-16"
+      }
+    },
+    {
+      "id": "hcm-vehicle-ban-truong-chinh-truong-cong-dinh-dong-den",
+      "city": "TP.HCM",
+      "type": "VEHICLE_BAN",
+      "level": "HARD",
+      "vehicles": [
+        "truck",
+        "coach"
+      ],
+      "start": "2026-11-07",
+      "end": null,
+      "daily_hours": null,
+      "street": "Trường Chinh",
+      "from_cross": "Trương Công Định",
+      "to_cross": "Đồng Đen",
+      "geometry": [
+        [
+          10.7990075,
+          106.641949
+        ],
+        [
+          10.7989771,
+          106.6420232
+        ],
+        [
+          10.7989695,
+          106.6420988
+        ],
+        [
+          10.7989876,
+          106.6422071
+        ],
+        [
+          10.7989869,
+          106.6422453
+        ],
+        [
+          10.7989612,
+          106.6423264
+        ],
+        [
+          10.7988601,
+          106.6425136
+        ],
+        [
+          10.7987591,
+          106.6427008
+        ],
+        [
+          10.798658,
+          106.6428879
+        ],
+        [
+          10.7985569,
+          106.6430751
+        ],
+        [
+          10.7984493,
+          106.6432744
+        ],
+        [
+          10.7983417,
+          106.6434737
+        ],
+        [
+          10.798234,
+          106.6436729
+        ],
+        [
+          10.7981264,
+          106.6438722
+        ],
+        [
+          10.7980188,
+          106.6440715
+        ],
+        [
+          10.7979616,
+          106.6441664
+        ],
+        [
+          10.7978969,
+          106.6442179
+        ],
+        [
+          10.7977824,
+          106.6442631
+        ],
+        [
+          10.7977515,
+          106.6443865
+        ],
+        [
+          10.797643,
+          106.6445884
+        ],
+        [
+          10.7975679,
+          106.6447283
+        ],
+        [
+          10.7974927,
+          106.6448681
+        ],
+        [
+          10.797422,
+          106.6449995
+        ],
+        [
+          10.7973514,
+          106.645131
+        ],
+        [
+          10.797286,
+          106.6452527
+        ],
+        [
+          10.7972206,
+          106.6453745
+        ],
+        [
+          10.7971275,
+          106.6455477
+        ],
+        [
+          10.7970552,
+          106.6456822
+        ],
+        [
+          10.7969829,
+          106.6458168
+        ],
+        [
+          10.7969504,
+          106.6458773
+        ]
+      ],
+      "banned": "forward",
+      "turn": null,
+      "osm_knows": false,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "source": {
+        "url": "https://vovgiaothong.vn/newsaudio/tphcm-tu-7-11-cam-xe-tai-xe-khach-qua-mot-doan-duong-truong-chinh-d56434.html",
+        "tier": "B",
+        "notice_no": null,
+        "published": "2026-10-31"
+      }
+    },
+    {
+      "id": "hcm-vehicle-ban-phan-dinh-phung-hoang-van-thu-nguyen-trong-tuyen",
+      "city": "TP.HCM",
+      "type": "VEHICLE_BAN",
+      "level": "HARD",
+      "vehicles": [
+        "car"
+      ],
+      "start": "2026-11-15",
+      "end": null,
+      "daily_hours": "16:00-19:00",
+      "street": "Phan Đình Phùng",
+      "from_cross": "Hoàng Văn Thụ",
+      "to_cross": "Nguyễn Trọng Tuyển",
+      "geometry": [
+        [
+          10.7991874,
+          106.680278
+        ],
+        [
+          10.7991159,
+          106.6803103
+        ],
+        [
+          10.7989167,
+          106.6804006
+        ],
+        [
+          10.7987175,
+          106.6804908
+        ],
+        [
+          10.7985183,
+          106.6805811
+        ],
+        [
+          10.79847,
+          106.6806025
+        ],
+        [
+          10.7983392,
+          106.6806603
+        ],
+        [
+          10.7982085,
+          106.6807181
+        ],
+        [
+          10.7980451,
+          106.6807949
+        ],
+        [
+          10.7978818,
+          106.6808718
+        ],
+        [
+          10.7977184,
+          106.6809486
+        ],
+        [
+          10.7976671,
+          106.6809722
+        ],
+        [
+          10.7975937,
+          106.6810059
+        ],
+        [
+          10.7975692,
+          106.6809952
+        ],
+        [
+          10.7974343,
+          106.6810555
+        ],
+        [
+          10.7972993,
+          106.6811159
+        ],
+        [
+          10.7971937,
+          106.6811632
+        ]
+      ],
+      "banned": "both",
+      "turn": null,
+      "osm_knows": false,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "source": {
+        "url": "https://tuoitre.vn/tphcm-ap-dung-loat-dieu-chinh-giao-thong-tai-nga-tu-phu-nhuan-tu-15-11-100261110165454755.htm",
+        "tier": "B",
+        "notice_no": null,
+        "published": "2026-11-10"
+      }
+    },
+    {
+      "id": "hcm-turn-ban-phan-dang-luu-phan-dinh-phung",
+      "city": "TP.HCM",
+      "type": "TURN_BAN",
+      "level": "HARD",
+      "vehicles": [
+        "car"
+      ],
+      "start": "2026-11-15",
+      "end": null,
+      "daily_hours": "16:00-19:00",
+      "street": "Phan Đăng Lưu",
+      "from_cross": null,
+      "to_cross": null,
+      "geometry": [
+        [
+          10.7995062,
+          106.6807103
+        ],
+        [
+          10.7993468,
+          106.6804941
+        ],
+        [
+          10.7991874,
+          106.680278
+        ],
+        [
+          10.7989409,
+          106.6803897
+        ],
+        [
+          10.7986944,
+          106.6805013
+        ]
+      ],
+      "banned": null,
+      "turn": {
+        "from": [
+          [
+            10.799506153153317,
+            106.68071027442622
+          ],
+          [
+            10.7991874,
+            106.680278
+          ]
+        ],
+        "via": [
+          10.7991874,
+          106.680278
+        ],
+        "to": [
+          [
+            10.7991874,
+            106.680278
+          ],
+          [
+            10.798694401179723,
+            106.68050130046943
+          ]
+        ],
+        "kind": "no_left_turn"
+      },
+      "osm_knows": true,
+      "first_seen": "2026-11-19",
+      "last_seen": "2026-11-19",
+      "source": {
+        "url": "https://tuoitre.vn/tphcm-ap-dung-loat-dieu-chinh-giao-thong-tai-nga-tu-phu-nhuan-tu-15-11-100261110165454755.htm",
+        "tier": "B",
+        "notice_no": null,
+        "published": "2026-11-10"
       }
     }
   ]
