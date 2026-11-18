@@ -56,6 +56,10 @@
           {
             "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
             "tier": "B"
+          },
+          {
+            "url": "https://baoxaydung.vn/metro-so-2-dong-loat-dung-rao-nhieu-tuyen-duong-tphcm-doi-luong-tu-10-10-192261002110859206.htm",
+            "tier": "B"
           }
         ],
         "field_checks": {
@@ -64,7 +68,8 @@
           "to_cross": true,
           "allowed_direction_dest": true,
           "start": true,
-          "start_via_published": false
+          "start_via_published": false,
+          "core_single_article": true
         },
         "reject_reason": null
       },
@@ -219,7 +224,8 @@
           "to_cross": true,
           "allowed_direction_dest": true,
           "start": true,
-          "start_via_published": false
+          "start_via_published": false,
+          "core_single_article": true
         },
         "reject_reason": null
       },
@@ -545,7 +551,8 @@
           "turn_dest": true,
           "turn_verb": true,
           "start": true,
-          "start_via_published": false
+          "start_via_published": false,
+          "core_single_article": true
         },
         "reject_reason": null
       },
@@ -553,8 +560,8 @@
         "turn": {
           "from": [
             [
-              10.7935475,
-              106.6524466
+              10.793256637965012,
+              106.65298564423264
             ],
             [
               10.792996850000002,
@@ -571,8 +578,8 @@
               106.6534671
             ],
             [
-              10.7929545,
-              106.6535457
+              10.792737038814895,
+              106.65394854201777
             ]
           ],
           "kind": "no_straight_on"
@@ -638,7 +645,8 @@
             "tier": "B",
             "published": "2026-10-13",
             "evidence": [
-              "Ở chiều ngược lại, phương tiện đi trên đường Cách Mạng Tháng Tám khi đến ngã tư Bảy Hiền chỉ được phép rẽ phải vào đường Hoàng Văn Thụ, không được đi thẳng hoặc rẽ trái."
+              "Ở chiều ngược lại, phương tiện đi trên đường Cách Mạng Tháng Tám khi đến ngã tư Bảy Hiền chỉ được phép rẽ phải vào đường Hoàng Văn Thụ, không được đi thẳng hoặc rẽ trái.",
+              "Từ 10-10, một số đoạn đường Nguyễn Thị Minh Khai và Cách Mạng Tháng Tám được tổ chức lưu thông một chiều để phục vụ thi công ga ST2 Tao Đàn, tuyến metro số 2 Bến Thành - Tham Lương."
             ]
           },
           {
@@ -687,7 +695,8 @@
           "turn_dest": true,
           "turn_verb": true,
           "start": true,
-          "start_via_published": false
+          "start_via_published": false,
+          "core_single_article": true
         },
         "reject_reason": null
       },
@@ -695,8 +704,8 @@
         "turn": {
           "from": [
             [
-              10.7926054,
-              106.6541924
+              10.792737018238373,
+              106.65394853051912
             ],
             [
               10.792996850000002,
@@ -713,8 +722,8 @@
               106.6534671
             ],
             [
-              10.7930392,
-              106.6533885
+              10.793256610837457,
+              106.652985629121
             ]
           ],
           "kind": "no_straight_on"
@@ -781,7 +790,8 @@
             "published": "2026-10-13",
             "evidence": [
               "Ở chiều ngược lại, phương tiện đi trên đường Cách Mạng Tháng Tám khi đến ngã tư Bảy Hiền chỉ được phép rẽ phải vào đường Hoàng Văn Thụ, không được đi thẳng hoặc rẽ trái.",
-              "Phương tiện lưu thông trên đường Lý Thường Kiệt khi đến ngã tư Bảy Hiền chỉ được rẽ phải vào đường Cách Mạng Tháng Tám hoặc chạy thẳng"
+              "Phương tiện lưu thông trên đường Lý Thường Kiệt khi đến ngã tư Bảy Hiền chỉ được rẽ phải vào đường Cách Mạng Tháng Tám hoặc chạy thẳng",
+              "Từ 10-10, một số đoạn đường Nguyễn Thị Minh Khai và Cách Mạng Tháng Tám được tổ chức lưu thông một chiều để phục vụ thi công ga ST2 Tao Đàn, tuyến metro số 2 Bến Thành - Tham Lương."
             ]
           },
           {
@@ -817,7 +827,8 @@
           "turn_dest": true,
           "turn_verb": true,
           "start": true,
-          "start_via_published": false
+          "start_via_published": false,
+          "core_single_article": true
         },
         "reject_reason": null
       },
@@ -825,8 +836,8 @@
         "turn": {
           "from": [
             [
-              10.7926054,
-              106.6541924
+              10.792694627640978,
+              106.65402710777593
             ],
             [
               10.7929545,
@@ -843,8 +854,8 @@
               106.6535457
             ],
             [
-              10.7925909,
-              106.6532815
+              10.792521274046928,
+              106.65322349222009
             ]
           ],
           "kind": "no_left_turn"
@@ -854,12 +865,12 @@
           106.6541924
         ],
         "check_to": [
-          10.7921192,
-          106.6530263
+          10.7920881,
+          106.6528626
         ],
         "via_node": 10960847006,
         "via_approx": false,
-        "turn_angle_deg": -83.3
+        "turn_angle_deg": -90.5
       },
       "match_error": null,
       "level": "HARD",
@@ -867,13 +878,13 @@
       "valhalla_banned": {
         "motor_scooter": {
           "straight_through": false,
-          "coverage": 0.25,
-          "route_km": 1.737
+          "coverage": 1.0,
+          "route_km": 1.344
         },
         "auto": {
           "straight_through": false,
           "coverage": 1.0,
-          "route_km": 1.832
+          "route_km": 1.344
         },
         "osm_knows": true
       },
@@ -917,14 +928,25 @@
         ]
       },
       "evidence": {
-        "valid_sources": [],
-        "field_checks": {},
-        "reject_reason": "evidence_not_found"
+        "valid_sources": [
+          {
+            "url": "https://baoxaydung.vn/metro-so-2-dong-loat-dung-rao-nhieu-tuyen-duong-tphcm-doi-luong-tu-10-10-192261002110859206.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": false,
+          "start": false,
+          "core_single_article": false
+        },
+        "reject_reason": "evidence_fields_missing:to_cross,start,core_single_article"
       },
       "match": null,
       "match_error": null,
       "level": "REJECT",
-      "level_reason": "evidence_not_found"
+      "level_reason": "evidence_fields_missing:to_cross,start,core_single_article"
     }
   ]
 }
