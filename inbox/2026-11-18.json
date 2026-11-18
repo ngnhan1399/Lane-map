@@ -1,0 +1,274 @@
+{
+  "run_date": "2026-11-18",
+  "agent": "muse",
+  "articles_read": 7,
+  "records": [
+    {
+      "city": "TP.HCM",
+      "ward_or_district": "phường Bến Thành",
+      "type": "ONEWAY",
+      "street": "Cách Mạng Tháng Tám",
+      "from_cross": "Nguyễn Du",
+      "to_cross": "Nguyễn Thị Minh Khai",
+      "allowed_direction": "từ Nguyễn Du đến Nguyễn Thị Minh Khai",
+      "turn": null,
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-10-10",
+      "end": null,
+      "daily_hours": null,
+      "notice_no": null,
+      "sources": [
+        {
+          "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+          "tier": "A",
+          "published": "2026-09-16",
+          "evidence": [
+            "Trong suốt các giai đoạn này, đoạn đường Cách Mạng Tháng Tám từ đường Nguyễn Du đến đường Nguyễn Thị Minh Khai sẽ tổ chức lưu thông một chiều theo hướng từ Nguyễn Du về Nguyễn Thị Minh Khai."
+          ]
+        },
+        {
+          "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+          "tier": "B",
+          "published": "2026-10-10",
+          "evidence": [
+            "đường Cách Mạng Tháng Tám đoạn từ Nguyễn Du đến Nguyễn Thị Minh Khai được tổ chức lưu thông một chiều theo hướng Nguyễn Du về Nguyễn Thị Minh Khai",
+            "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+          ]
+        },
+        {
+          "url": "https://baoxaydung.vn/metro-so-2-dong-loat-dung-rao-nhieu-tuyen-duong-tphcm-doi-luong-tu-10-10-192261002110859206.htm",
+          "tier": "B",
+          "published": "2026-10-02",
+          "evidence": [
+            "Tại khu vực ga Tao Đàn, từ ngày 10/10, đường Cách Mạng Tháng Tám, đoạn từ Nguyễn Du đến Nguyễn Thị Minh Khai, sẽ tổ chức lưu thông một chiều theo hướng về đường Nguyễn Thị Minh Khai."
+          ]
+        }
+      ]
+    },
+    {
+      "city": "TP.HCM",
+      "ward_or_district": null,
+      "type": "ONEWAY",
+      "street": "Nguyễn Thị Minh Khai",
+      "from_cross": "Cao Thắng",
+      "to_cross": "Huyền Trân Công Chúa",
+      "allowed_direction": "từ Cao Thắng đến Huyền Trân Công Chúa",
+      "turn": null,
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-10-10",
+      "end": null,
+      "daily_hours": null,
+      "notice_no": null,
+      "sources": [
+        {
+          "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+          "tier": "A",
+          "published": "2026-09-16",
+          "evidence": [
+            "Đồng thời, đường Nguyễn Thị Minh Khai đoạn từ Cao Thắng đến Huyền Trân Công Chúa cũng tổ chức lưu thông một chiều theo hướng từ Cao Thắng đến Huyền Trân Công Chúa."
+          ]
+        },
+        {
+          "url": "https://thanhnien.vn/duong-nguyen-thi-minh-khai-o-tphcm-doi-chieu-xe-may-van-di-nguoc-chieu-doi-dau-o-to-185261113095352741.htm",
+          "tier": "B",
+          "published": "2026-11-13",
+          "evidence": [
+            "Theo phương án của Sở Xây dựng TP.HCM, đường Nguyễn Thị Minh Khai, đoạn từ Cao Thắng đến Huyền Trân Công Chúa, được tổ chức lưu thông một chiều đối với tất cả các loại xe, theo hướng từ đường Cao Thắng đến đường Huyền Trân Công Chúa.",
+            "Trước đó, từ ngày 10.10, TP.HCM điều chỉnh tổ chức giao thông trên một số tuyến đường trung tâm để phục vụ thi công dự án tuyến metro số 2 (Bến Thành - Tham Lương)."
+          ]
+        },
+        {
+          "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+          "tier": "B",
+          "published": "2026-10-10",
+          "evidence": [
+            "đường Nguyễn Thị Minh Khai, phường Bến Thành được tổ chức lưu thông một chiều theo hướng từ đường Cao Thắng đến đường Huyền Trân Công Chúa",
+            "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+          ]
+        }
+      ]
+    },
+    {
+      "city": "TP.HCM",
+      "ward_or_district": "phường Bảy Hiền",
+      "type": "TURN_BAN",
+      "street": "Trường Chinh",
+      "from_cross": null,
+      "to_cross": null,
+      "allowed_direction": null,
+      "turn": "từ Trường Chinh đi thẳng sang Cách Mạng Tháng Tám bị cấm",
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-10-10",
+      "end": null,
+      "daily_hours": null,
+      "notice_no": null,
+      "sources": [
+        {
+          "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+          "tier": "A",
+          "published": "2026-09-16",
+          "evidence": [
+            "Tại nút giao lớn Trường Chinh - Cách Mạng Tháng Tám - Lý Thường Kiệt - Hoàng Văn Thụ, giao thông được điều chỉnh nghiêm ngặt: các phương tiện di chuyển từ đường Trường Chinh chỉ được phép rẽ phải vào Lý Thường Kiệt hoặc rẽ trái vào Hoàng Văn Thụ, tuyệt đối không được đi thẳng qua đường Cách Mạng Tháng Tám."
+          ]
+        },
+        {
+          "url": "https://tuoitre.vn/nguoi-dan-tphcm-lung-tung-qua-nga-tu-bay-hien-trong-ngay-dau-phan-luong-lam-metro-so-2-100261010090110709.htm",
+          "tier": "B",
+          "published": "2026-10-10",
+          "evidence": [
+            "Các phương tiện từ đường Trường Chinh chỉ được rẽ phải vào đường Lý Thường Kiệt hoặc rẽ trái vào đường Hoàng Văn Thụ, không được đi thẳng qua đường Cách Mạng Tháng Tám."
+          ]
+        },
+        {
+          "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+          "tier": "B",
+          "published": "2026-10-10",
+          "evidence": [
+            "Các phương tiện từ đường Trường Chinh chỉ được rẽ phải vào đường Lý Thường Kiệt hoặc rẽ trái vào đường Hoàng Văn Thụ, không được đi thẳng qua đường Cách Mạng Tháng Tám.",
+            "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+          ]
+        }
+      ]
+    },
+    {
+      "city": "TP.HCM",
+      "ward_or_district": "phường Bảy Hiền",
+      "type": "TURN_BAN",
+      "street": "Cách Mạng Tháng Tám",
+      "from_cross": null,
+      "to_cross": null,
+      "allowed_direction": null,
+      "turn": "từ Cách Mạng Tháng Tám đi thẳng sang Trường Chinh bị cấm",
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-10-10",
+      "end": null,
+      "daily_hours": null,
+      "notice_no": null,
+      "sources": [
+        {
+          "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+          "tier": "A",
+          "published": "2026-09-16",
+          "evidence": [
+            "Trong khi đó, các phương tiện đi từ đường Cách Mạng Tháng Tám tới giao lộ bắt buộc phải rẽ phải vào đường Hoàng Văn Thụ."
+          ]
+        },
+        {
+          "url": "https://tuoitre.vn/duong-nguyen-thi-minh-khai-doan-nao-di-1-chieu-nga-tu-bay-hien-luu-thong-the-nao-sau-dieu-chinh-10026101216024088.htm",
+          "tier": "B",
+          "published": "2026-10-13",
+          "evidence": [
+            "Ở chiều ngược lại, phương tiện đi trên đường Cách Mạng Tháng Tám khi đến ngã tư Bảy Hiền chỉ được phép rẽ phải vào đường Hoàng Văn Thụ, không được đi thẳng hoặc rẽ trái."
+          ]
+        },
+        {
+          "url": "https://tuoitre.vn/nguoi-dan-tphcm-lung-tung-qua-nga-tu-bay-hien-trong-ngay-dau-phan-luong-lam-metro-so-2-100261010090110709.htm",
+          "tier": "B",
+          "published": "2026-10-10",
+          "evidence": [
+            "khu vực giao lộ Trường Chinh - Cách Mạng Tháng Tám - Lý Thường Kiệt - Hoàng Văn Thụ được điều chỉnh hướng lưu thông",
+            "Trong khi đó, xe từ đường Cách Mạng Tháng Tám phải rẽ phải vào đường Hoàng Văn Thụ."
+          ]
+        },
+        {
+          "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+          "tier": "B",
+          "published": "2026-10-10",
+          "evidence": [
+            "Trong khi đó, xe từ đường Cách Mạng Tháng Tám phải rẽ phải vào đường Hoàng Văn Thụ.",
+            "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+          ]
+        }
+      ]
+    },
+    {
+      "city": "TP.HCM",
+      "ward_or_district": "phường Bảy Hiền",
+      "type": "TURN_BAN",
+      "street": "Cách Mạng Tháng Tám",
+      "from_cross": null,
+      "to_cross": null,
+      "allowed_direction": null,
+      "turn": "từ Cách Mạng Tháng Tám rẽ trái sang Lý Thường Kiệt bị cấm",
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-10-10",
+      "end": null,
+      "daily_hours": null,
+      "notice_no": null,
+      "sources": [
+        {
+          "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+          "tier": "A",
+          "published": "2026-09-16",
+          "evidence": [
+            "Trong khi đó, các phương tiện đi từ đường Cách Mạng Tháng Tám tới giao lộ bắt buộc phải rẽ phải vào đường Hoàng Văn Thụ."
+          ]
+        },
+        {
+          "url": "https://tuoitre.vn/duong-nguyen-thi-minh-khai-doan-nao-di-1-chieu-nga-tu-bay-hien-luu-thong-the-nao-sau-dieu-chinh-10026101216024088.htm",
+          "tier": "B",
+          "published": "2026-10-13",
+          "evidence": [
+            "Ở chiều ngược lại, phương tiện đi trên đường Cách Mạng Tháng Tám khi đến ngã tư Bảy Hiền chỉ được phép rẽ phải vào đường Hoàng Văn Thụ, không được đi thẳng hoặc rẽ trái.",
+            "Phương tiện lưu thông trên đường Lý Thường Kiệt khi đến ngã tư Bảy Hiền chỉ được rẽ phải vào đường Cách Mạng Tháng Tám hoặc chạy thẳng"
+          ]
+        },
+        {
+          "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+          "tier": "B",
+          "published": "2026-10-10",
+          "evidence": [
+            "Trong khi đó, xe từ đường Cách Mạng Tháng Tám phải rẽ phải vào đường Hoàng Văn Thụ.",
+            "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+          ]
+        }
+      ]
+    },
+    {
+      "city": "TP.HCM",
+      "ward_or_district": "phường Bến Thành",
+      "type": "ROAD_CLOSED",
+      "street": "Phạm Hồng Thái",
+      "from_cross": "Lê Thánh Tôn",
+      "to_cross": "Trương Định",
+      "allowed_direction": null,
+      "turn": null,
+      "vehicles": [
+        "all"
+      ],
+      "start": null,
+      "end": null,
+      "daily_hours": null,
+      "notice_no": null,
+      "sources": [
+        {
+          "url": "https://hadoo.eu/blog/novinky-1/mot-goc-ga-ben-thanh-sap-quay-rao-nguoi-dan-can-luu-y-thay-doi-huong-di-trung-tam-tp-hcm-36848",
+          "tier": "B",
+          "published": null,
+          "evidence": [
+            "Riêng đường Phạm Hồng Thái sẽ đóng đoạn từ trước giao lộ Lê Thánh Tôn đến qua giao lộ Trương Định (phía công viên 23-9) để thi công cống dẫn dòng và làm đường tránh, đồng thời mở rộng mặt đường tại khu vực Hàm Nghi - Phó Đức Chính.",
+            "Theo ông Vũ Văn Vịnh, Giám đốc Ban Quản lý dự án 2 thuộc MAUR, dự kiến việc điều chỉnh giao thông sẽ bắt đầu từ nửa cuối tháng 10."
+          ]
+        },
+        {
+          "url": "https://baoxaydung.vn/metro-so-2-dong-loat-dung-rao-nhieu-tuyen-duong-tphcm-doi-luong-tu-10-10-192261002110859206.htm",
+          "tier": "B",
+          "published": "2026-10-02",
+          "evidence": [
+            "Chiều ngược lại, phương tiện được hướng dẫn đi theo các tuyến Nguyễn Thị Minh Khai, Huyền Trân Công Chúa, Thủ Khoa Huân, Lê Thánh Tôn và Phạm Hồng Thái."
+          ]
+        }
+      ]
+    }
+  ]
+}

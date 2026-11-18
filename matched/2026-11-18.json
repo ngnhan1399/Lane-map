@@ -1,0 +1,930 @@
+{
+  "run_date": "2026-11-18",
+  "today": "2026-11-18",
+  "results": [
+    {
+      "record": {
+        "city": "TP.HCM",
+        "ward_or_district": "phường Bến Thành",
+        "type": "ONEWAY",
+        "street": "Cách Mạng Tháng Tám",
+        "from_cross": "Nguyễn Du",
+        "to_cross": "Nguyễn Thị Minh Khai",
+        "allowed_direction": "từ Nguyễn Du đến Nguyễn Thị Minh Khai",
+        "turn": null,
+        "vehicles": [
+          "all"
+        ],
+        "start": "2026-10-10",
+        "end": null,
+        "daily_hours": null,
+        "notice_no": null,
+        "sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A",
+            "published": "2026-09-16",
+            "evidence": [
+              "Trong suốt các giai đoạn này, đoạn đường Cách Mạng Tháng Tám từ đường Nguyễn Du đến đường Nguyễn Thị Minh Khai sẽ tổ chức lưu thông một chiều theo hướng từ Nguyễn Du về Nguyễn Thị Minh Khai."
+            ]
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B",
+            "published": "2026-10-10",
+            "evidence": [
+              "đường Cách Mạng Tháng Tám đoạn từ Nguyễn Du đến Nguyễn Thị Minh Khai được tổ chức lưu thông một chiều theo hướng Nguyễn Du về Nguyễn Thị Minh Khai",
+              "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+            ]
+          },
+          {
+            "url": "https://baoxaydung.vn/metro-so-2-dong-loat-dung-rao-nhieu-tuyen-duong-tphcm-doi-luong-tu-10-10-192261002110859206.htm",
+            "tier": "B",
+            "published": "2026-10-02",
+            "evidence": [
+              "Tại khu vực ga Tao Đàn, từ ngày 10/10, đường Cách Mạng Tháng Tám, đoạn từ Nguyễn Du đến Nguyễn Thị Minh Khai, sẽ tổ chức lưu thông một chiều theo hướng về đường Nguyễn Thị Minh Khai."
+            ]
+          }
+        ]
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A"
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7720617,
+            106.6922925
+          ],
+          [
+            10.7721127,
+            106.6921894
+          ],
+          [
+            10.7723133,
+            106.6918282
+          ],
+          [
+            10.7724013,
+            106.6916656
+          ],
+          [
+            10.7727133,
+            106.6913492
+          ],
+          [
+            10.7727588,
+            106.6912635
+          ],
+          [
+            10.7728122,
+            106.691163
+          ],
+          [
+            10.7734869,
+            106.6898918
+          ],
+          [
+            10.7735293,
+            106.6898119
+          ]
+        ],
+        "length_m": 318.1,
+        "way_nodes": [
+          14297408453,
+          14297408450,
+          13306234428,
+          6793925376,
+          4641370402,
+          4603901620,
+          11870810310,
+          11871287731,
+          5763168804
+        ]
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null,
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 0.137,
+          "route_km": 1.55
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 0.137,
+          "route_km": 1.55
+        },
+        "osm_knows": true
+      },
+      "osm_knows": true,
+      "valhalla_allowed": {
+        "motor_scooter": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 0.318
+        },
+        "auto": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 0.318
+        },
+        "suspect_direction": false,
+        "scooter_only_divergence": false
+      }
+    },
+    {
+      "record": {
+        "city": "TP.HCM",
+        "ward_or_district": null,
+        "type": "ONEWAY",
+        "street": "Nguyễn Thị Minh Khai",
+        "from_cross": "Cao Thắng",
+        "to_cross": "Huyền Trân Công Chúa",
+        "allowed_direction": "từ Cao Thắng đến Huyền Trân Công Chúa",
+        "turn": null,
+        "vehicles": [
+          "all"
+        ],
+        "start": "2026-10-10",
+        "end": null,
+        "daily_hours": null,
+        "notice_no": null,
+        "sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A",
+            "published": "2026-09-16",
+            "evidence": [
+              "Đồng thời, đường Nguyễn Thị Minh Khai đoạn từ Cao Thắng đến Huyền Trân Công Chúa cũng tổ chức lưu thông một chiều theo hướng từ Cao Thắng đến Huyền Trân Công Chúa."
+            ]
+          },
+          {
+            "url": "https://thanhnien.vn/duong-nguyen-thi-minh-khai-o-tphcm-doi-chieu-xe-may-van-di-nguoc-chieu-doi-dau-o-to-185261113095352741.htm",
+            "tier": "B",
+            "published": "2026-11-13",
+            "evidence": [
+              "Theo phương án của Sở Xây dựng TP.HCM, đường Nguyễn Thị Minh Khai, đoạn từ Cao Thắng đến Huyền Trân Công Chúa, được tổ chức lưu thông một chiều đối với tất cả các loại xe, theo hướng từ đường Cao Thắng đến đường Huyền Trân Công Chúa.",
+              "Trước đó, từ ngày 10.10, TP.HCM điều chỉnh tổ chức giao thông trên một số tuyến đường trung tâm để phục vụ thi công dự án tuyến metro số 2 (Bến Thành - Tham Lương)."
+            ]
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B",
+            "published": "2026-10-10",
+            "evidence": [
+              "đường Nguyễn Thị Minh Khai, phường Bến Thành được tổ chức lưu thông một chiều theo hướng từ đường Cao Thắng đến đường Huyền Trân Công Chúa",
+              "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+            ]
+          }
+        ]
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A"
+          },
+          {
+            "url": "https://thanhnien.vn/duong-nguyen-thi-minh-khai-o-tphcm-doi-chieu-xe-may-van-di-nguoc-chieu-doi-dau-o-to-185261113095352741.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7681956,
+            106.6842755
+          ],
+          [
+            10.7683532,
+            106.6844239
+          ],
+          [
+            10.7683963,
+            106.6844645
+          ],
+          [
+            10.7684296,
+            106.6844958
+          ],
+          [
+            10.768504,
+            106.6845659
+          ],
+          [
+            10.7693306,
+            106.6853446
+          ],
+          [
+            10.7696662,
+            106.6856607
+          ],
+          [
+            10.7700219,
+            106.6859958
+          ],
+          [
+            10.7700732,
+            106.6860441
+          ],
+          [
+            10.7701891,
+            106.6861533
+          ],
+          [
+            10.7704427,
+            106.6863921
+          ],
+          [
+            10.7704816,
+            106.6864288
+          ],
+          [
+            10.7707,
+            106.6866346
+          ],
+          [
+            10.7708639,
+            106.6867889
+          ],
+          [
+            10.7713203,
+            106.6872758
+          ],
+          [
+            10.7713927,
+            106.687345
+          ],
+          [
+            10.7715863,
+            106.6875301
+          ],
+          [
+            10.7719189,
+            106.6878383
+          ],
+          [
+            10.7722523,
+            106.6881534
+          ],
+          [
+            10.7724093,
+            106.6883052
+          ],
+          [
+            10.7725253,
+            106.688413
+          ],
+          [
+            10.7726933,
+            106.6885606
+          ],
+          [
+            10.7727258,
+            106.6885904
+          ],
+          [
+            10.7733516,
+            106.6891765
+          ],
+          [
+            10.7737665,
+            106.6895625
+          ],
+          [
+            10.7739855,
+            106.6897618
+          ],
+          [
+            10.7740082,
+            106.6897834
+          ],
+          [
+            10.7741866,
+            106.6899534
+          ],
+          [
+            10.774737,
+            106.6904777
+          ],
+          [
+            10.774771,
+            106.6905074
+          ],
+          [
+            10.7748317,
+            106.6905629
+          ],
+          [
+            10.7749144,
+            106.6906403
+          ],
+          [
+            10.7752771,
+            106.6909962
+          ],
+          [
+            10.7754135,
+            106.6911283
+          ],
+          [
+            10.7758347,
+            106.6915013
+          ],
+          [
+            10.7758873,
+            106.6915523
+          ],
+          [
+            10.7759952,
+            106.691657
+          ],
+          [
+            10.776075,
+            106.6917312
+          ],
+          [
+            10.7764356,
+            106.6920668
+          ],
+          [
+            10.7765199,
+            106.6921453
+          ],
+          [
+            10.7767256,
+            106.6923367
+          ],
+          [
+            10.7770229,
+            106.6926135
+          ],
+          [
+            10.7774837,
+            106.6930424
+          ]
+        ],
+        "length_m": 1408.7,
+        "way_nodes": [
+          12584708458,
+          14257897739,
+          12584708462,
+          14203098878,
+          14180071084,
+          6794362632,
+          6794362629,
+          6788949322,
+          6639672511,
+          6788683865,
+          2364059996,
+          6788683867,
+          2364060009,
+          2364060004,
+          6788949318,
+          10225437085,
+          6794406134,
+          2364059997,
+          411922637,
+          6794406136,
+          6794406138,
+          6786754482,
+          411922630,
+          12000475405,
+          14338890033,
+          6639674954,
+          11363674908,
+          11235255354,
+          11586212348,
+          11871195762,
+          2364030596,
+          11871195771,
+          13426262022,
+          14121742204,
+          12000475406,
+          11870774534,
+          12157150905,
+          11870774527,
+          5763168797,
+          14118824113,
+          8359904042,
+          14118824111,
+          12157150907
+        ]
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null,
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 0.031,
+          "route_km": 2.032
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 0.031,
+          "route_km": 2.968
+        },
+        "osm_knows": true
+      },
+      "osm_knows": true,
+      "valhalla_allowed": {
+        "motor_scooter": {
+          "direct": false,
+          "coverage": 0.441,
+          "route_km": 1.67
+        },
+        "auto": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 2.376
+        },
+        "suspect_direction": false,
+        "scooter_only_divergence": true
+      },
+      "review_flag": "scooter_only_divergence_on_allowed_check"
+    },
+    {
+      "record": {
+        "city": "TP.HCM",
+        "ward_or_district": "phường Bảy Hiền",
+        "type": "TURN_BAN",
+        "street": "Trường Chinh",
+        "from_cross": null,
+        "to_cross": null,
+        "allowed_direction": null,
+        "turn": "từ Trường Chinh đi thẳng sang Cách Mạng Tháng Tám bị cấm",
+        "vehicles": [
+          "all"
+        ],
+        "start": "2026-10-10",
+        "end": null,
+        "daily_hours": null,
+        "notice_no": null,
+        "sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A",
+            "published": "2026-09-16",
+            "evidence": [
+              "Tại nút giao lớn Trường Chinh - Cách Mạng Tháng Tám - Lý Thường Kiệt - Hoàng Văn Thụ, giao thông được điều chỉnh nghiêm ngặt: các phương tiện di chuyển từ đường Trường Chinh chỉ được phép rẽ phải vào Lý Thường Kiệt hoặc rẽ trái vào Hoàng Văn Thụ, tuyệt đối không được đi thẳng qua đường Cách Mạng Tháng Tám."
+            ]
+          },
+          {
+            "url": "https://tuoitre.vn/nguoi-dan-tphcm-lung-tung-qua-nga-tu-bay-hien-trong-ngay-dau-phan-luong-lam-metro-so-2-100261010090110709.htm",
+            "tier": "B",
+            "published": "2026-10-10",
+            "evidence": [
+              "Các phương tiện từ đường Trường Chinh chỉ được rẽ phải vào đường Lý Thường Kiệt hoặc rẽ trái vào đường Hoàng Văn Thụ, không được đi thẳng qua đường Cách Mạng Tháng Tám."
+            ]
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B",
+            "published": "2026-10-10",
+            "evidence": [
+              "Các phương tiện từ đường Trường Chinh chỉ được rẽ phải vào đường Lý Thường Kiệt hoặc rẽ trái vào đường Hoàng Văn Thụ, không được đi thẳng qua đường Cách Mạng Tháng Tám.",
+              "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+            ]
+          }
+        ]
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A"
+          },
+          {
+            "url": "https://tuoitre.vn/nguoi-dan-tphcm-lung-tung-qua-nga-tu-bay-hien-trong-ngay-dau-phan-luong-lam-metro-so-2-100261010090110709.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "turn": {
+          "from": [
+            [
+              10.7935475,
+              106.6524466
+            ],
+            [
+              10.792996850000002,
+              106.6534671
+            ]
+          ],
+          "via": [
+            10.792996850000002,
+            106.6534671
+          ],
+          "to": [
+            [
+              10.792996850000002,
+              106.6534671
+            ],
+            [
+              10.7929545,
+              106.6535457
+            ]
+          ],
+          "kind": "no_straight_on"
+        },
+        "check_from": [
+          10.7935475,
+          106.6524466
+        ],
+        "check_to": [
+          10.7926054,
+          106.6541924
+        ],
+        "via_node": 14092962360,
+        "via_approx": true,
+        "turn_angle_deg": 0.0
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null,
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 1.0,
+          "route_km": 0.927
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 0.739,
+          "route_km": 0.889
+        },
+        "osm_knows": true
+      },
+      "osm_knows": true
+    },
+    {
+      "record": {
+        "city": "TP.HCM",
+        "ward_or_district": "phường Bảy Hiền",
+        "type": "TURN_BAN",
+        "street": "Cách Mạng Tháng Tám",
+        "from_cross": null,
+        "to_cross": null,
+        "allowed_direction": null,
+        "turn": "từ Cách Mạng Tháng Tám đi thẳng sang Trường Chinh bị cấm",
+        "vehicles": [
+          "all"
+        ],
+        "start": "2026-10-10",
+        "end": null,
+        "daily_hours": null,
+        "notice_no": null,
+        "sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A",
+            "published": "2026-09-16",
+            "evidence": [
+              "Trong khi đó, các phương tiện đi từ đường Cách Mạng Tháng Tám tới giao lộ bắt buộc phải rẽ phải vào đường Hoàng Văn Thụ."
+            ]
+          },
+          {
+            "url": "https://tuoitre.vn/duong-nguyen-thi-minh-khai-doan-nao-di-1-chieu-nga-tu-bay-hien-luu-thong-the-nao-sau-dieu-chinh-10026101216024088.htm",
+            "tier": "B",
+            "published": "2026-10-13",
+            "evidence": [
+              "Ở chiều ngược lại, phương tiện đi trên đường Cách Mạng Tháng Tám khi đến ngã tư Bảy Hiền chỉ được phép rẽ phải vào đường Hoàng Văn Thụ, không được đi thẳng hoặc rẽ trái."
+            ]
+          },
+          {
+            "url": "https://tuoitre.vn/nguoi-dan-tphcm-lung-tung-qua-nga-tu-bay-hien-trong-ngay-dau-phan-luong-lam-metro-so-2-100261010090110709.htm",
+            "tier": "B",
+            "published": "2026-10-10",
+            "evidence": [
+              "khu vực giao lộ Trường Chinh - Cách Mạng Tháng Tám - Lý Thường Kiệt - Hoàng Văn Thụ được điều chỉnh hướng lưu thông",
+              "Trong khi đó, xe từ đường Cách Mạng Tháng Tám phải rẽ phải vào đường Hoàng Văn Thụ."
+            ]
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B",
+            "published": "2026-10-10",
+            "evidence": [
+              "Trong khi đó, xe từ đường Cách Mạng Tháng Tám phải rẽ phải vào đường Hoàng Văn Thụ.",
+              "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+            ]
+          }
+        ]
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A"
+          },
+          {
+            "url": "https://tuoitre.vn/duong-nguyen-thi-minh-khai-doan-nao-di-1-chieu-nga-tu-bay-hien-luu-thong-the-nao-sau-dieu-chinh-10026101216024088.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://tuoitre.vn/nguoi-dan-tphcm-lung-tung-qua-nga-tu-bay-hien-trong-ngay-dau-phan-luong-lam-metro-so-2-100261010090110709.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "turn": {
+          "from": [
+            [
+              10.7926054,
+              106.6541924
+            ],
+            [
+              10.792996850000002,
+              106.6534671
+            ]
+          ],
+          "via": [
+            10.792996850000002,
+            106.6534671
+          ],
+          "to": [
+            [
+              10.792996850000002,
+              106.6534671
+            ],
+            [
+              10.7930392,
+              106.6533885
+            ]
+          ],
+          "kind": "no_straight_on"
+        },
+        "check_from": [
+          10.7926054,
+          106.6541924
+        ],
+        "check_to": [
+          10.7935475,
+          106.6524466
+        ],
+        "via_node": 10960847006,
+        "via_approx": true,
+        "turn_angle_deg": -0.0
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null,
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 0.587,
+          "route_km": 1.096
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 0.587,
+          "route_km": 1.096
+        },
+        "osm_knows": true
+      },
+      "osm_knows": true
+    },
+    {
+      "record": {
+        "city": "TP.HCM",
+        "ward_or_district": "phường Bảy Hiền",
+        "type": "TURN_BAN",
+        "street": "Cách Mạng Tháng Tám",
+        "from_cross": null,
+        "to_cross": null,
+        "allowed_direction": null,
+        "turn": "từ Cách Mạng Tháng Tám rẽ trái sang Lý Thường Kiệt bị cấm",
+        "vehicles": [
+          "all"
+        ],
+        "start": "2026-10-10",
+        "end": null,
+        "daily_hours": null,
+        "notice_no": null,
+        "sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A",
+            "published": "2026-09-16",
+            "evidence": [
+              "Trong khi đó, các phương tiện đi từ đường Cách Mạng Tháng Tám tới giao lộ bắt buộc phải rẽ phải vào đường Hoàng Văn Thụ."
+            ]
+          },
+          {
+            "url": "https://tuoitre.vn/duong-nguyen-thi-minh-khai-doan-nao-di-1-chieu-nga-tu-bay-hien-luu-thong-the-nao-sau-dieu-chinh-10026101216024088.htm",
+            "tier": "B",
+            "published": "2026-10-13",
+            "evidence": [
+              "Ở chiều ngược lại, phương tiện đi trên đường Cách Mạng Tháng Tám khi đến ngã tư Bảy Hiền chỉ được phép rẽ phải vào đường Hoàng Văn Thụ, không được đi thẳng hoặc rẽ trái.",
+              "Phương tiện lưu thông trên đường Lý Thường Kiệt khi đến ngã tư Bảy Hiền chỉ được rẽ phải vào đường Cách Mạng Tháng Tám hoặc chạy thẳng"
+            ]
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B",
+            "published": "2026-10-10",
+            "evidence": [
+              "Trong khi đó, xe từ đường Cách Mạng Tháng Tám phải rẽ phải vào đường Hoàng Văn Thụ.",
+              "Đặc biệt, hai ga ngầm trọng điểm là ST02 ở công viên Tao Đàn và ST07 ở ngã tư Bảy Hiền đã được cấp phép thi công từ ngày 12/9/2026, chính thức triển khai rào chắn và phân luồng từ ngày 10/10/2026."
+            ]
+          }
+        ]
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://ttbc-hcm.gov.vn/print/1022128.html",
+            "tier": "A"
+          },
+          {
+            "url": "https://tuoitre.vn/duong-nguyen-thi-minh-khai-doan-nao-di-1-chieu-nga-tu-bay-hien-luu-thong-the-nao-sau-dieu-chinh-10026101216024088.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://vovgiaothong.vn/newsaudio/tphcm-giao-thong-trong-ngay-dau-phan-luong-moi-hang-loat-tuyen-duong-d55938.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "turn": {
+          "from": [
+            [
+              10.7926054,
+              106.6541924
+            ],
+            [
+              10.7929545,
+              106.6535457
+            ]
+          ],
+          "via": [
+            10.7929545,
+            106.6535457
+          ],
+          "to": [
+            [
+              10.7929545,
+              106.6535457
+            ],
+            [
+              10.7925909,
+              106.6532815
+            ]
+          ],
+          "kind": "no_left_turn"
+        },
+        "check_from": [
+          10.7926054,
+          106.6541924
+        ],
+        "check_to": [
+          10.7921192,
+          106.6530263
+        ],
+        "via_node": 10960847006,
+        "via_approx": false,
+        "turn_angle_deg": -83.3
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null,
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 0.25,
+          "route_km": 1.737
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 1.0,
+          "route_km": 1.832
+        },
+        "osm_knows": true
+      },
+      "osm_knows": true
+    },
+    {
+      "record": {
+        "city": "TP.HCM",
+        "ward_or_district": "phường Bến Thành",
+        "type": "ROAD_CLOSED",
+        "street": "Phạm Hồng Thái",
+        "from_cross": "Lê Thánh Tôn",
+        "to_cross": "Trương Định",
+        "allowed_direction": null,
+        "turn": null,
+        "vehicles": [
+          "all"
+        ],
+        "start": null,
+        "end": null,
+        "daily_hours": null,
+        "notice_no": null,
+        "sources": [
+          {
+            "url": "https://hadoo.eu/blog/novinky-1/mot-goc-ga-ben-thanh-sap-quay-rao-nguoi-dan-can-luu-y-thay-doi-huong-di-trung-tam-tp-hcm-36848",
+            "tier": "B",
+            "published": null,
+            "evidence": [
+              "Riêng đường Phạm Hồng Thái sẽ đóng đoạn từ trước giao lộ Lê Thánh Tôn đến qua giao lộ Trương Định (phía công viên 23-9) để thi công cống dẫn dòng và làm đường tránh, đồng thời mở rộng mặt đường tại khu vực Hàm Nghi - Phó Đức Chính.",
+              "Theo ông Vũ Văn Vịnh, Giám đốc Ban Quản lý dự án 2 thuộc MAUR, dự kiến việc điều chỉnh giao thông sẽ bắt đầu từ nửa cuối tháng 10."
+            ]
+          },
+          {
+            "url": "https://baoxaydung.vn/metro-so-2-dong-loat-dung-rao-nhieu-tuyen-duong-tphcm-doi-luong-tu-10-10-192261002110859206.htm",
+            "tier": "B",
+            "published": "2026-10-02",
+            "evidence": [
+              "Chiều ngược lại, phương tiện được hướng dẫn đi theo các tuyến Nguyễn Thị Minh Khai, Huyền Trân Công Chúa, Thủ Khoa Huân, Lê Thánh Tôn và Phạm Hồng Thái."
+            ]
+          }
+        ]
+      },
+      "evidence": {
+        "valid_sources": [],
+        "field_checks": {},
+        "reject_reason": "evidence_not_found"
+      },
+      "match": null,
+      "match_error": null,
+      "level": "REJECT",
+      "level_reason": "evidence_not_found"
+    }
+  ]
+}
