@@ -1,0 +1,6 @@
+# Không bao giờ commit bí mật
+*.pem
+*.key
+.env
+secrets/
+__pycache__/
