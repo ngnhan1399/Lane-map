@@ -484,10 +484,65 @@
         },
         "reject_reason": null
       },
-      "match": null,
-      "match_error": "no_intersection:Yết Kiêu",
-      "level": "REJECT",
-      "level_reason": "no_intersection:Yết Kiêu"
+      "match": {
+        "geometry_raw": [
+          [
+            21.0234613,
+            105.8437286
+          ],
+          [
+            21.0234225,
+            105.8438641
+          ],
+          [
+            21.0232243,
+            105.8445567
+          ]
+        ],
+        "length_m": 89.9,
+        "way_nodes": [
+          11033808556,
+          12899227200,
+          2218018671
+        ],
+        "osm_blocked_tags": true,
+        "osm_highway_values": [
+          "construction"
+        ]
+      },
+      "match_error": null,
+      "level": "SOFT",
+      "level_reason": null,
+      "banned": "backward",
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 0.455,
+          "route_km": 0.732
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 0.455,
+          "route_km": 1.311
+        },
+        "osm_knows": true
+      },
+      "osm_knows": true,
+      "valhalla_allowed": {
+        "motor_scooter": {
+          "direct": false,
+          "coverage": 0.455,
+          "route_km": 1.088
+        },
+        "auto": {
+          "direct": false,
+          "coverage": 0.455,
+          "route_km": 1.088
+        },
+        "suspect_direction": true,
+        "scooter_only_divergence": false
+      },
+      "review_flag": "allowed_check_unroutable_osm_blocked"
     },
     {
       "record": {
@@ -545,10 +600,79 @@
         },
         "reject_reason": null
       },
-      "match": null,
-      "match_error": "street_not_found",
-      "level": "REJECT",
-      "level_reason": "street_not_found"
+      "match": {
+        "geometry_raw": [
+          [
+            21.0249069,
+            105.8451257
+          ],
+          [
+            21.0247504,
+            105.8450869
+          ],
+          [
+            21.024187,
+            105.8448939
+          ],
+          [
+            21.0236378,
+            105.8447003
+          ],
+          [
+            21.0235778,
+            105.8446791
+          ],
+          [
+            21.0232243,
+            105.8445567
+          ]
+        ],
+        "length_m": 196.3,
+        "way_nodes": [
+          98012404,
+          10149099228,
+          5704289462,
+          12531792545,
+          11033808550,
+          2218018671
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "tertiary"
+        ]
+      },
+      "match_error": null,
+      "level": "SOFT",
+      "level_reason": null,
+      "banned": "forward",
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 0.213,
+          "route_km": 0.582
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 0.213,
+          "route_km": 0.582
+        },
+        "osm_knows": true
+      },
+      "osm_knows": true,
+      "valhalla_allowed": {
+        "motor_scooter": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 0.196
+        },
+        "auto": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 0.196
+        },
+        "suspect_direction": false,
+        "scooter_only_divergence": false
+      }
     },
     {
       "record": {
