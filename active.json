@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-21T05:13:50+07:00",
-  "osm_date": "2026-11-19",
+  "generated_at": "2026-11-22T05:14:54+07:00",
+  "osm_date": "2026-11-20",
   "attribution": "© OpenStreetMap contributors (ODbL). Overlay compiled from official notices and press reports; see logs/ for sources.",
   "records": [
     {
@@ -961,7 +961,7 @@
       "id": "hanoi-oneway-tran-hung-dao-yet-kieu-quan-su",
       "city": "Hà Nội",
       "type": "ONEWAY",
-      "level": "SOFT",
+      "level": "HARD",
       "vehicles": [
         "car"
       ],
@@ -981,12 +981,12 @@
           105.8438641
         ],
         [
-          21.023356433333333,
-          105.84409496666667
+          21.0233564,
+          105.844095
         ],
         [
-          21.023290366666664,
-          105.84432583333333
+          21.0232904,
+          105.8443258
         ],
         [
           21.0232243,
@@ -997,7 +997,7 @@
       "turn": null,
       "osm_knows": true,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "source": {
         "url": "https://nhandan.vn/tu-ngay-1911-dieu-chinh-to-chuc-giao-thong-tren-duong-tran-hung-dao-va-quan-su-post1003610.html",
         "tier": "B",
@@ -1009,7 +1009,7 @@
       "id": "hanoi-oneway-quan-su-ly-thuong-kiet-tran-hung-dao",
       "city": "Hà Nội",
       "type": "ONEWAY",
-      "level": "SOFT",
+      "level": "HARD",
       "vehicles": [
         "car"
       ],
@@ -1030,23 +1030,23 @@
         ],
         [
           21.0245626,
-          105.84502256666667
+          105.8450226
         ],
         [
           21.0243748,
-          105.84495823333333
+          105.8449582
         ],
         [
           21.024187,
           105.8448939
         ],
         [
-          21.024003933333333,
-          105.84482936666667
+          21.0240039,
+          105.8448294
         ],
         [
-          21.023820866666668,
-          105.84476483333333
+          21.0238209,
+          105.8447648
         ],
         [
           21.0236378,
@@ -1057,19 +1057,19 @@
           105.8446791
         ],
         [
-          21.02340105,
-          105.8446179
+          21.0234388,
+          105.8446309
         ],
         [
-          21.0232243,
-          105.8445567
+          21.0232998,
+          105.8445828
         ]
       ],
       "banned": "forward",
       "turn": null,
       "osm_knows": true,
       "first_seen": "2026-11-19",
-      "last_seen": "2026-11-19",
+      "last_seen": "2026-11-22",
       "source": {
         "url": "https://nhandan.vn/tu-ngay-1911-dieu-chinh-to-chuc-giao-thong-tren-duong-tran-hung-dao-va-quan-su-post1003610.html",
         "tier": "B",
