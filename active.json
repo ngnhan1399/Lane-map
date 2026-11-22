@@ -1,7 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-11-22T05:14:54+07:00",
-  "osm_date": "2026-11-20",
+  "generated_at": "2026-11-23T05:08:50+07:00",
+  "osm_date": "2026-11-21",
   "attribution": "© OpenStreetMap contributors (ODbL). Overlay compiled from official notices and press reports; see logs/ for sources.",
   "records": [
     {
@@ -1075,6 +1075,58 @@
         "tier": "B",
         "notice_no": "1686/TB-SXD",
         "published": "2026-11-18"
+      }
+    },
+    {
+      "id": "hcm-road-closed-nguyen-binh-khiem-nguyen-hien-dai-lo-dai-hoc",
+      "city": "TP.HCM",
+      "type": "ROAD_CLOSED",
+      "level": "SOFT",
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-11-06",
+      "end": "2026-12-31",
+      "daily_hours": null,
+      "street": "Nguyễn Bỉnh Khiêm",
+      "from_cross": "Nguyễn Hiền",
+      "to_cross": "Đại lộ Đại học",
+      "geometry": [
+        [
+          10.8753446,
+          106.8071377
+        ],
+        [
+          10.8753327,
+          106.8071282
+        ],
+        [
+          10.8751301,
+          106.8069944
+        ],
+        [
+          10.8749275,
+          106.8068606
+        ],
+        [
+          10.874725,
+          106.8067268
+        ],
+        [
+          10.8745224,
+          106.806593
+        ]
+      ],
+      "banned": "both",
+      "turn": null,
+      "osm_knows": true,
+      "first_seen": "2026-11-23",
+      "last_seen": "2026-11-23",
+      "source": {
+        "url": "https://tuoitre.vn/print/13-tuyen-buyt-doi-lo-trinh-de-lam-duong-khu-dai-hoc-quoc-gia-tphcm-va-metro-ben-thanh-tham-luong-100261106134213697.htm",
+        "tier": "B",
+        "notice_no": null,
+        "published": "2026-11-06"
       }
     }
   ]

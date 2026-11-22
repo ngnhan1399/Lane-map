@@ -1,0 +1,190 @@
+{
+  "run_date": "2026-11-23",
+  "agent": "muse",
+  "articles_read": 60,
+  "records": [
+    {
+      "city": "TP.HCM",
+      "ward_or_district": null,
+      "type": "ROAD_CLOSED",
+      "street": "Nguyễn Bỉnh Khiêm",
+      "from_cross": "Nguyễn Hiền",
+      "to_cross": "Đại lộ Đại học",
+      "allowed_direction": null,
+      "turn": null,
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-11-06",
+      "end": "2026-12-31",
+      "daily_hours": null,
+      "notice_no": null,
+      "backlog": true,
+      "sources": [
+        {
+          "url": "https://tuoitre.vn/print/13-tuyen-buyt-doi-lo-trinh-de-lam-duong-khu-dai-hoc-quoc-gia-tphcm-va-metro-ben-thanh-tham-luong-100261106134213697.htm",
+          "tier": "B",
+          "published": "2026-11-06",
+          "evidence": [
+            "từ ngày 6-11, đơn vị thi công tiến hành lắp đặt hàng rào tôn, rào chắn toàn bộ đường Trục trung tâm (đại lộ Đại học) và một phần đường Liên khu 3 (Nguyễn Bỉnh Khiêm), đoạn từ ngã ba đường Liên khu 2 (Nguyễn Hiền) đến nút giao với đường 621 (đại lộ Đại học) hiện hữu.",
+            "Thời gian điều chỉnh từ hôm nay cho đến 31-12-2026."
+          ]
+        },
+        {
+          "url": "https://vnexpress.net/13-tuyen-xe-buyt-tp-hcm-doi-lo-trinh-5141501.html",
+          "tier": "B",
+          "published": "2026-11-06",
+          "evidence": [
+            "Từ 10h ngày 6/11, đơn vị thi công rào chắn toàn bộ đường Trục Trung tâm (Đại lộ Đại học) và một phần đường Liên khu 3 (Nguyễn Bỉnh Khiêm), đoạn từ ngã ba đường Liên khu 2 (Nguyễn Hiền) đến nút giao đường 621 (Đại lộ Đại học) hiện hữu.",
+            "Do đó, 11 tuyến buýt số 8, 10, 19, 33, 50, 52, 53, 99, 166, 170 và 60-5 đổi lộ trình đến hết ngày 31/12."
+          ]
+        }
+      ],
+      "note": "to_cross sửa từ 'Đường 621' sang 'Đại lộ Đại học': bài báo viết 'nút giao với đường 621 (đại lộ Đại học)' — ngoặc đơn đồng nhất hai tên; OSM không có way nào tên 'Đường 621'."
+    },
+    {
+      "city": "TP.HCM",
+      "ward_or_district": null,
+      "type": "ROAD_CLOSED",
+      "street": "Đại lộ Đại học",
+      "from_cross": null,
+      "to_cross": null,
+      "allowed_direction": null,
+      "turn": null,
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-11-06",
+      "end": "2026-12-31",
+      "daily_hours": null,
+      "notice_no": null,
+      "backlog": true,
+      "sources": [
+        {
+          "url": "https://tuoitre.vn/print/13-tuyen-buyt-doi-lo-trinh-de-lam-duong-khu-dai-hoc-quoc-gia-tphcm-va-metro-ben-thanh-tham-luong-100261106134213697.htm",
+          "tier": "B",
+          "published": "2026-11-06",
+          "evidence": [
+            "từ ngày 6-11, đơn vị thi công tiến hành lắp đặt hàng rào tôn, rào chắn toàn bộ đường Trục trung tâm (đại lộ Đại học) và một phần đường Liên khu 3 (Nguyễn Bỉnh Khiêm), đoạn từ ngã ba đường Liên khu 2 (Nguyễn Hiền) đến nút giao với đường 621 (đại lộ Đại học) hiện hữu.",
+            "Thời gian điều chỉnh từ hôm nay cho đến 31-12-2026."
+          ]
+        },
+        {
+          "url": "https://vnexpress.net/13-tuyen-xe-buyt-tp-hcm-doi-lo-trinh-5141501.html",
+          "tier": "B",
+          "published": "2026-11-06",
+          "evidence": [
+            "Từ 10h ngày 6/11, đơn vị thi công rào chắn toàn bộ đường Trục Trung tâm (Đại lộ Đại học) và một phần đường Liên khu 3 (Nguyễn Bỉnh Khiêm), đoạn từ ngã ba đường Liên khu 2 (Nguyễn Hiền) đến nút giao đường 621 (Đại lộ Đại học) hiện hữu.",
+            "Do đó, 11 tuyến buýt số 8, 10, 19, 33, 50, 52, 53, 99, 166, 170 và 60-5 đổi lộ trình đến hết ngày 31/12."
+          ]
+        }
+      ]
+    },
+    {
+      "city": "Yên Bái",
+      "ward_or_district": "phường Yên Bái",
+      "type": "ROAD_CLOSED",
+      "street": "Lý Tự Trọng",
+      "from_cross": "Trần Huy Liệu",
+      "to_cross": null,
+      "allowed_direction": null,
+      "turn": null,
+      "vehicles": [
+        "all"
+      ],
+      "start": "2026-11-17",
+      "end": "2026-11-30",
+      "daily_hours": null,
+      "notice_no": null,
+      "backlog": true,
+      "sources": [
+        {
+          "url": "https://vovgiaothong.vn/newsaudio/ban-tin-nha-chuc-trach-thong-bao-ngay-17-11-d56804.html",
+          "tier": "B",
+          "published": "2026-11-17",
+          "evidence": [
+            "UBND phường Yên Bái, tỉnh Lào Cai thông báo tạm dừng lưu thông một đoạn đường Lý Tự Trọng từ nay đến hết 30/11/2026 để phục vụ thi công Công viên phường Yên Bái, khu vực hồ Cung Thiếu nhi.",
+            "Hai vị trí ngăn đường tại nút giao Trần Huy Liệu – Lý Tự Trọng và khu vực cổng Trung tâm Hoạt động Thanh thiếu nhi cũ."
+          ]
+        }
+      ]
+    },
+    {
+      "allowed_direction": null,
+      "city": "Hà Nội",
+      "daily_hours": null,
+      "end": null,
+      "from_cross": null,
+      "notice_no": null,
+      "sources": [
+        {
+          "evidence": [
+            "Sở Xây dựng Hà Nội cũng cho biết từ ngày 23/11 sẽ thực hiện điều chỉnh tổ chức giao thông trên đường Trường Sa (đoạn cổng C1 Trung tâm triển lãm Việt Nam và nhánh rẽ phải từ đường C2 ra đường Trường Sa đoạn từ nút giao Đông Hội đến đường Trường Sa).",
+            "Theo đó, đường Trường Sa đoạn cổng C1 Trung tâm Triển lãm Việt Nam đóng nút đèn dải phân cách giữa trên đường Trường Sa (khu vực cổng C1 Trung tâm triển lãm Việt Nam).",
+            "Các phương tiện tham gia giao thông đi thẳng liên tục qua nút đèn tín hiệu theo cả hai chiều và quay đầu tại điểm mở tiếp theo. Phương tiện đi hướng từ cầu Đông Trù đi cầu Nhật Tân quay đầu tại nút đèn tín hiệu tiếp theo, hướng từ cầu Nhật Tân đi cầu Đông Trù quay đầu tại điểm quay đầu đoạn gần cầu Đông Trù."
+          ],
+          "published": "2026-11-21",
+          "tier": "B",
+          "url": "https://dantri.com.vn/thoi-su/ha-noi-to-chuc-lai-giao-thong-nut-giao-truong-dinh-vanh-dai-25-20261121094412179.htm"
+        },
+        {
+          "evidence": [
+            "Theo đó, tại khu vực cổng C1 Trung tâm Triển lãm Việt Nam, cơ quan chức năng sẽ đóng nút đèn tín hiệu trên dải phân cách giữa đường Trường Sa. Các phương tiện lưu thông thẳng liên tục qua khu vực này theo cả hai chiều, không được quay đầu tại vị trí nút đèn như hiện nay.",
+            "Phương tiện đi từ cầu Đông Trù về cầu Nhật Tân sẽ quay đầu tại nút đèn tín hiệu tiếp theo; chiều từ cầu Nhật Tân đi cầu Đông Trù quay đầu tại điểm quay đầu gần cầu Đông Trù.",
+            "Từ ngày 23-11, Hà Nội điều chỉnh giao thông trên đường Trường Sa phục vụ thi công dự án cầu Tứ Liên."
+          ],
+          "published": "2026-11-20",
+          "tier": "B",
+          "url": "https://hanoimoi.vn/tu-ngay-23-11-dieu-chinh-giao-thong-tren-duong-truong-sa-phuc-vu-thi-cong-cau-tu-lien-1766835.html"
+        }
+      ],
+      "start": "2026-11-23",
+      "street": "Trường Sa",
+      "to_cross": null,
+      "turn": "từ Trường Sa quay đầu sang Trường Sa bị cấm",
+      "type": "TURN_BAN",
+      "vehicles": [
+        "all"
+      ],
+      "ward_or_district": "xã Đông Hội"
+    },
+    {
+      "allowed_direction": null,
+      "city": "Hà Nội",
+      "daily_hours": null,
+      "end": null,
+      "from_cross": "Đông Hội",
+      "notice_no": null,
+      "sources": [
+        {
+          "evidence": [
+            "Sở Xây dựng Hà Nội cũng cho biết từ ngày 23/11 sẽ thực hiện điều chỉnh tổ chức giao thông trên đường Trường Sa (đoạn cổng C1 Trung tâm triển lãm Việt Nam và nhánh rẽ phải từ đường C2 ra đường Trường Sa đoạn từ nút giao Đông Hội đến đường Trường Sa).",
+            "Với đoạn nhánh rẽ phải từ đường C2 ra đường Trường Sa (từ nút giao Đông Hội đến đường Trường Sa), tổ chức đóng đoạn nhánh rẽ phải từ đường C2 ra đường Trường Sa từ nút giao Đông Hội đến đường Trường Sa.",
+            "Các phương tiện lưu thông trên đường Đông Hội đi thẳng qua nút giao Đông Hội và lưu thông trên các tuyến đường nội bộ của Vinhomes Cổ Loa để ra đường Trường Sa."
+          ],
+          "published": "2026-11-21",
+          "tier": "B",
+          "url": "https://dantri.com.vn/thoi-su/ha-noi-to-chuc-lai-giao-thong-nut-giao-truong-dinh-vanh-dai-25-20261121094412179.htm"
+        },
+        {
+          "evidence": [
+            "Cùng với đó, nhánh rẽ phải từ đường C2 ra đường Trường Sa, đoạn từ nút giao Đông Hội đến đường Trường Sa, cũng sẽ bị đóng. Các phương tiện lưu thông trên đường Đông Hội đi thẳng qua nút giao Đông Hội, sau đó di chuyển theo các tuyến đường nội bộ của Khu đô thị Vinhomes Cổ Loa để ra đường Trường Sa.",
+            "Từ ngày 23-11, Hà Nội điều chỉnh giao thông trên đường Trường Sa phục vụ thi công dự án cầu Tứ Liên."
+          ],
+          "published": "2026-11-20",
+          "tier": "B",
+          "url": "https://hanoimoi.vn/tu-ngay-23-11-dieu-chinh-giao-thong-tren-duong-truong-sa-phuc-vu-thi-cong-cau-tu-lien-1766835.html"
+        }
+      ],
+      "start": "2026-11-23",
+      "street": "C2",
+      "to_cross": "Trường Sa",
+      "turn": null,
+      "type": "ROAD_CLOSED",
+      "vehicles": [
+        "all"
+      ],
+      "ward_or_district": "xã Đông Hội"
+    }
+  ]
+}
