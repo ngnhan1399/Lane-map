@@ -1,0 +1,228 @@
+{
+ "date": "2026-11-23",
+ "source": "suspected-finished.json (generated 2026-11-18)",
+ "results": [
+  {
+   "way_id": 1032460083,
+   "record_id": "dn-new-road-open-vanh-dai-phia-tay-w1032460083",
+   "level": "HARD",
+   "level_reason": "2 nguon B khac domain",
+   "paved_since_before": false,
+   "sources": [
+    {
+     "url": "https://vov.gov.vn/da-nang-thong-xe-duong-vanh-dai-phia-tay-noi-quoc-lo-14-voi-duong-ho-chi-minh-dtnew-809095?keyDevice=true",
+     "tier": "B",
+     "published": "2024-05-13"
+    },
+    {
+     "url": "https://tuoitre.vn/giaoduc/da-nang-thong-xe-tuyen-duong-vanh-dai-phia-tay-108647089.htm",
+     "tier": "B"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1417985450,
+   "record_id": "dn-new-road-open-hoa-lien-tuy-loan-w1417985450",
+   "level": "HARD",
+   "level_reason": "2 nguon B khac domain",
+   "paved_since_before": false,
+   "sources": [
+    {
+     "url": "https://fr.laodong.vn/xa-hoi/thong-xe-ky-thuat-cao-toc-hoa-lien-tuy-loan-1559785.ldo",
+     "tier": "B",
+     "published": "2025-08-19"
+    },
+    {
+     "url": "https://thanhnien.vn/thu-truong-bo-xay-dung-hoi-thuc-giai-ngan-400-ti-dong-cao-toc-hoa-lien-tuy-loan-185260616115500765.htm",
+     "tier": "B"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1417985451,
+   "record_id": "dn-new-road-open-hoa-lien-tuy-loan-w1417985451",
+   "level": "HARD",
+   "level_reason": "2 nguon B khac domain",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://fr.laodong.vn/xa-hoi/thong-xe-ky-thuat-cao-toc-hoa-lien-tuy-loan-1559785.ldo",
+     "tier": "B",
+     "published": "2025-08-19"
+    },
+    {
+     "url": "https://thanhnien.vn/thu-truong-bo-xay-dung-hoi-thuc-giai-ngan-400-ti-dong-cao-toc-hoa-lien-tuy-loan-185260616115500765.htm",
+     "tier": "B"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1571540830,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1571540830",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": false,
+   "sources": [
+    {
+     "url": "https://laodong.vn/xa-hoi/thong-tuyen-vanh-dai-25-noi-nguyen-trai-giai-phong-them-truc-duong-ha-nhiet-un-tac-1795172.ldo",
+     "tier": "B",
+     "published": "2026-11-10"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 873057537,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w873057537",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/xa-hoi/thong-tuyen-vanh-dai-25-noi-nguyen-trai-giai-phong-them-truc-duong-ha-nhiet-un-tac-1795172.ldo",
+     "tier": "B",
+     "published": "2026-11-10"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1521157385,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1521157385",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/xa-hoi/thong-tuyen-vanh-dai-25-noi-nguyen-trai-giai-phong-them-truc-duong-ha-nhiet-un-tac-1795172.ldo",
+     "tier": "B",
+     "published": "2026-11-10"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1521157384,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1521157384",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/xa-hoi/thong-tuyen-vanh-dai-25-noi-nguyen-trai-giai-phong-them-truc-duong-ha-nhiet-un-tac-1795172.ldo",
+     "tier": "B",
+     "published": "2026-11-10"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1491489724,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1491489724",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/xa-hoi/thong-tuyen-vanh-dai-25-noi-nguyen-trai-giai-phong-them-truc-duong-ha-nhiet-un-tac-1795172.ldo",
+     "tier": "B",
+     "published": "2026-11-10"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1510216024,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1510216024",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/xa-hoi/thong-tuyen-vanh-dai-25-noi-nguyen-trai-giai-phong-them-truc-duong-ha-nhiet-un-tac-1795172.ldo",
+     "tier": "B",
+     "published": "2026-11-10"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1545671974,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1545671974",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/xa-hoi/thong-tuyen-vanh-dai-25-noi-nguyen-trai-giai-phong-them-truc-duong-ha-nhiet-un-tac-1795172.ldo",
+     "tier": "B",
+     "published": "2026-11-10"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1571540827,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1571540827",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/giao-thong/ha-noi-vanh-dai-25-thong-xe-ky-thuat-nhieu-nut-giao-van-un-tac-gio-cao-diem-1799322.ldo",
+     "tier": "B",
+     "published": "2026-11-12"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1571540826,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1571540826",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/giao-thong/ha-noi-vanh-dai-25-thong-xe-ky-thuat-nhieu-nut-giao-van-un-tac-gio-cao-diem-1799322.ldo",
+     "tier": "B",
+     "published": "2026-11-12"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1110572071,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1110572071",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/giao-thong/ha-noi-vanh-dai-25-thong-xe-ky-thuat-nhieu-nut-giao-van-un-tac-gio-cao-diem-1799322.ldo",
+     "tier": "B",
+     "published": "2026-11-12"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  },
+  {
+   "way_id": 1110572072,
+   "record_id": "hanoi-new-road-open-vanh-dai-2-5-w1110572072",
+   "level": "SOFT",
+   "level_reason": "1 nguon B",
+   "paved_since_before": true,
+   "sources": [
+    {
+     "url": "https://laodong.vn/giao-thong/ha-noi-vanh-dai-25-thong-xe-ky-thuat-nhieu-nut-giao-van-un-tac-gio-cao-diem-1799322.ldo",
+     "tier": "B",
+     "published": "2026-11-12"
+    }
+   ],
+   "osm": "highway=construction trong pbf 2026-11-21 -> osm_knows=false"
+  }
+ ]
+}
