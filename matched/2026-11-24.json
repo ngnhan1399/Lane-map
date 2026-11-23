@@ -1,0 +1,1079 @@
+{
+  "run_date": "2026-11-24",
+  "today": "2026-11-24",
+  "results": [
+    {
+      "record": {
+        "allowed_direction": null,
+        "backlog": true,
+        "city": "Hà Nội",
+        "daily_hours": "06:00-09:00,16:00-19:30",
+        "end": null,
+        "from_cross": null,
+        "notice_no": "1568/TB-SXD",
+        "sources": [
+          {
+            "evidence": [
+              "Theo đó, từ ngày 24/10, thành phố tổ chức cấm ô-tô rẽ trái tại nút giao Lê Đại Hành-Mai Hắc Đế theo cả hai hướng: từ phố Lê Đại Hành đi phố Mai Hắc Đế và từ phố Mai Hắc Đế đi phố Lê Đại Hành. Thời gian áp dụng vào các khung giờ cao điểm hằng ngày, buổi sáng từ 6 giờ đến 9 giờ, buổi chiều từ 16 giờ đến 19 giờ 30 phút."
+            ],
+            "published": "2026-10-24",
+            "tier": "B",
+            "url": "https://nhandan.vn/ha-noi-dieu-chinh-to-chuc-giao-thong-tai-nut-giao-le-dai-hanh-mai-hac-de-tu-ngay-2410-post997767.html"
+          },
+          {
+            "evidence": [
+              "Theo phương án điều chỉnh, TP Hà Nội cấm ô tô rẽ trái theo hướng từ phố Lê Đại Hành đi phố Mai Hắc Đế và chiều ngược lại, từ phố Mai Hắc Đế đi phố Lê Đại Hành.",
+              "Lệnh cấm được áp dụng hằng ngày trong hai khung giờ cao điểm: buổi sáng từ 6h đến 9h và buổi chiều từ 16h đến 19h30.",
+              "Phương án mới được triển khai từ ngày 24.10.2026, sau thời gian tổ chức giao thông thí điểm và đánh giá thực tế."
+            ],
+            "published": "2026-10-23",
+            "tier": "B",
+            "url": "https://laodong.vn/giao-thong/ha-noi-cam-o-to-re-trai-tai-nut-giao-le-dai-hanh-mai-hac-de-1787799.ldo"
+          },
+          {
+            "evidence": [
+              "Theo đó, cấm ô tô rẽ trái tại nút giao theo cả hai hướng: Từ đường Lê Đại Hành đi Mai Hắc Đế và từ đường Mai Hắc Đế đi Lê Đại Hành. Quy định được áp dụng hằng ngày trong hai khung giờ cao điểm: Buổi sáng từ 6h đến 9h và buổi chiều từ 16h đến 19h30.",
+              "Từ ngày 24-10, Sở Xây dựng Hà Nội thực hiện phương án tổ chức giao thông tại nút giao Lê Đại Hành - Mai Hắc Đế, phường Hai Bà Trưng, nhằm bảo đảm an toàn giao thông, giảm ùn tắc."
+            ],
+            "published": "2026-10-24",
+            "tier": "B",
+            "url": "https://hanoimoi.vn/cam-o-to-re-trai-tai-nut-giao-le-dai-hanh-mai-hac-de-gio-cao-diem-1762558.html"
+          }
+        ],
+        "start": "2026-10-24",
+        "street": "Lê Đại Hành",
+        "to_cross": null,
+        "turn": "từ Lê Đại Hành rẽ trái sang Mai Hắc Đế bị cấm",
+        "type": "TURN_BAN",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": "phường Hai Bà Trưng"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://nhandan.vn/ha-noi-dieu-chinh-to-chuc-giao-thong-tai-nut-giao-le-dai-hanh-mai-hac-de-tu-ngay-2410-post997767.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "turn": {
+          "from": [
+            [
+              21.009562012558394,
+              105.85017338627608
+            ],
+            [
+              21.0091717,
+              105.8505725
+            ]
+          ],
+          "via": [
+            21.0091717,
+            105.8505725
+          ],
+          "to": [
+            [
+              21.0091717,
+              105.8505725
+            ],
+            [
+              21.009685564021378,
+              105.85071398087959
+            ]
+          ],
+          "kind": "no_left_turn"
+        },
+        "check_from": [
+          21.0097837,
+          105.8499467
+        ],
+        "check_to": [
+          21.0103108,
+          105.8508078
+        ],
+        "via_node": 103005166,
+        "via_approx": false,
+        "turn_angle_deg": -113.4
+      },
+      "match_error": null,
+      "level": "SOFT",
+      "level_reason": null,
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": false,
+          "coverage": 0.217,
+          "route_km": 0.192
+        },
+        "auto": {
+          "straight_through": true,
+          "coverage": 1.0,
+          "route_km": 0.224
+        },
+        "osm_knows": false
+      },
+      "osm_knows": false
+    },
+    {
+      "record": {
+        "allowed_direction": null,
+        "backlog": true,
+        "city": "Hà Nội",
+        "daily_hours": "06:00-09:00,16:00-19:30",
+        "end": null,
+        "from_cross": null,
+        "notice_no": "1568/TB-SXD",
+        "sources": [
+          {
+            "evidence": [
+              "Theo đó, từ ngày 24/10, thành phố tổ chức cấm ô-tô rẽ trái tại nút giao Lê Đại Hành-Mai Hắc Đế theo cả hai hướng: từ phố Lê Đại Hành đi phố Mai Hắc Đế và từ phố Mai Hắc Đế đi phố Lê Đại Hành. Thời gian áp dụng vào các khung giờ cao điểm hằng ngày, buổi sáng từ 6 giờ đến 9 giờ, buổi chiều từ 16 giờ đến 19 giờ 30 phút."
+            ],
+            "published": "2026-10-24",
+            "tier": "B",
+            "url": "https://nhandan.vn/ha-noi-dieu-chinh-to-chuc-giao-thong-tai-nut-giao-le-dai-hanh-mai-hac-de-tu-ngay-2410-post997767.html"
+          },
+          {
+            "evidence": [
+              "Theo phương án điều chỉnh, TP Hà Nội cấm ô tô rẽ trái theo hướng từ phố Lê Đại Hành đi phố Mai Hắc Đế và chiều ngược lại, từ phố Mai Hắc Đế đi phố Lê Đại Hành.",
+              "Lệnh cấm được áp dụng hằng ngày trong hai khung giờ cao điểm: buổi sáng từ 6h đến 9h và buổi chiều từ 16h đến 19h30.",
+              "Phương án mới được triển khai từ ngày 24.10.2026, sau thời gian tổ chức giao thông thí điểm và đánh giá thực tế."
+            ],
+            "published": "2026-10-23",
+            "tier": "B",
+            "url": "https://laodong.vn/giao-thong/ha-noi-cam-o-to-re-trai-tai-nut-giao-le-dai-hanh-mai-hac-de-1787799.ldo"
+          },
+          {
+            "evidence": [
+              "Theo đó, cấm ô tô rẽ trái tại nút giao theo cả hai hướng: Từ đường Lê Đại Hành đi Mai Hắc Đế và từ đường Mai Hắc Đế đi Lê Đại Hành. Quy định được áp dụng hằng ngày trong hai khung giờ cao điểm: Buổi sáng từ 6h đến 9h và buổi chiều từ 16h đến 19h30.",
+              "Từ ngày 24-10, Sở Xây dựng Hà Nội thực hiện phương án tổ chức giao thông tại nút giao Lê Đại Hành - Mai Hắc Đế, phường Hai Bà Trưng, nhằm bảo đảm an toàn giao thông, giảm ùn tắc."
+            ],
+            "published": "2026-10-24",
+            "tier": "B",
+            "url": "https://hanoimoi.vn/cam-o-to-re-trai-tai-nut-giao-le-dai-hanh-mai-hac-de-gio-cao-diem-1762558.html"
+          }
+        ],
+        "start": "2026-10-24",
+        "street": "Mai Hắc Đế",
+        "to_cross": null,
+        "turn": "từ Mai Hắc Đế rẽ trái sang Lê Đại Hành bị cấm",
+        "type": "TURN_BAN",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": "phường Hai Bà Trưng"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://nhandan.vn/ha-noi-dieu-chinh-to-chuc-giao-thong-tai-nut-giao-le-dai-hanh-mai-hac-de-tu-ngay-2410-post997767.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "turn": {
+          "from": [
+            [
+              21.009685564021378,
+              105.85071398087959
+            ],
+            [
+              21.0091717,
+              105.8505725
+            ]
+          ],
+          "via": [
+            21.0091717,
+            105.8505725
+          ],
+          "to": [
+            [
+              21.0091717,
+              105.8505725
+            ],
+            [
+              21.0087618813562,
+              105.85094528680345
+            ]
+          ],
+          "kind": "no_left_turn"
+        },
+        "check_from": [
+          21.0103108,
+          105.8508078
+        ],
+        "check_to": [
+          21.0085965,
+          105.8510329
+        ],
+        "via_node": 103005166,
+        "via_approx": false,
+        "turn_angle_deg": -74.9
+      },
+      "match_error": null,
+      "level": "SOFT",
+      "level_reason": null,
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": true,
+          "coverage": 1.0,
+          "route_km": 0.211
+        },
+        "auto": {
+          "straight_through": true,
+          "coverage": 1.0,
+          "route_km": 0.211
+        },
+        "osm_knows": false
+      },
+      "osm_knows": false
+    },
+    {
+      "record": {
+        "allowed_direction": "từ Đồng Đen đến Trương Công Định",
+        "backlog": false,
+        "city": "TP.HCM",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Đồng Đen",
+        "note": "Trùng đoạn với VEHICLE_BAN Trường Chinh (từ 7/11, cấm tải/khách hướng Trương Công Định -> Đồng Đen): ONEWAY mới cấm mọi phương tiện cùng hướng đó từ 28/11. Chưa có luật thay thế — giữ cả hai, chờ chủ dự án chốt.",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Cụ thể, đường Trường Chinh (đoạn từ đường Đồng Đen đến Trương Công Định) sẽ tổ chức giao thông một chiều các loại phương tiện theo hướng từ Đồng Đen đi Trương Công Định.",
+              "Các phương án này sẽ được áp dụng từ ngày 28-11."
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+          },
+          {
+            "evidence": [
+              "Đường Trường Chinh đoạn từ đường Đồng Đen đến đường Trương Công Định: Tổ chức giao thông 1 chiều các loại phương tiện theo hướng từ Đồng Đen đi Trương Công Định.",
+              "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+          }
+        ],
+        "start": "2026-11-28",
+        "street": "Trường Chinh",
+        "to_cross": "Trương Công Định",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "all"
+        ],
+        "ward_or_district": null
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7969504,
+            106.6458773
+          ],
+          [
+            10.7969829,
+            106.6458168
+          ],
+          [
+            10.7971275,
+            106.6455477
+          ],
+          [
+            10.7972206,
+            106.6453745
+          ],
+          [
+            10.7973514,
+            106.645131
+          ],
+          [
+            10.7974927,
+            106.6448681
+          ],
+          [
+            10.797643,
+            106.6445884
+          ],
+          [
+            10.7977515,
+            106.6443865
+          ],
+          [
+            10.7977824,
+            106.6442631
+          ],
+          [
+            10.7978969,
+            106.6442179
+          ],
+          [
+            10.7979616,
+            106.6441664
+          ],
+          [
+            10.7980188,
+            106.6440715
+          ],
+          [
+            10.7985569,
+            106.6430751
+          ],
+          [
+            10.7989612,
+            106.6423264
+          ],
+          [
+            10.7989869,
+            106.6422453
+          ],
+          [
+            10.7989876,
+            106.6422071
+          ],
+          [
+            10.7989695,
+            106.6420988
+          ],
+          [
+            10.7989771,
+            106.6420232
+          ],
+          [
+            10.7990075,
+            106.641949
+          ]
+        ],
+        "length_m": 494.5,
+        "way_nodes": [
+          11443990834,
+          11443990861,
+          2079964446,
+          11452099346,
+          10736696525,
+          11452099345,
+          11452099342,
+          11438719528,
+          2409408739,
+          11438719530,
+          3152632056,
+          2409408743,
+          2081354538,
+          6640150567,
+          6640150566,
+          11761069827,
+          11438395319,
+          11438217257,
+          11438217258
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "primary"
+        ]
+      },
+      "match_error": null,
+      "level": "PENDING",
+      "level_reason": "future_start"
+    },
+    {
+      "record": {
+        "allowed_direction": "từ Trường Chinh đến Ba Vân",
+        "backlog": false,
+        "city": "TP.HCM",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Trường Chinh",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Đường Trương Công Định (đoạn từ đường Trường Chinh đến Ba Vân) sẽ được tổ chức giao thông một chiều các loại phương tiện theo hướng từ Trường Chinh đi Ba Vân.",
+              "Các phương án này sẽ được áp dụng từ ngày 28-11."
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+          },
+          {
+            "evidence": [
+              "Đường Trương Công Định đoạn từ đường Trường Chinh đến đường Ba Vân: Các loại phương tiện chỉ lưu thông 1 chiều theo hướng từ Trường Chinh đi Ba Vân.",
+              "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+          }
+        ],
+        "start": "2026-11-28",
+        "street": "Trương Công Định",
+        "to_cross": "Ba Vân",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "all"
+        ],
+        "ward_or_district": null
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7990075,
+            106.641949
+          ],
+          [
+            10.7988876,
+            106.6419096
+          ],
+          [
+            10.7988572,
+            106.6418996
+          ],
+          [
+            10.7988249,
+            106.641889
+          ],
+          [
+            10.7983304,
+            106.6417268
+          ],
+          [
+            10.7983092,
+            106.6417198
+          ],
+          [
+            10.7977387,
+            106.6415334
+          ],
+          [
+            10.7977053,
+            106.6415225
+          ],
+          [
+            10.7976601,
+            106.6415068
+          ],
+          [
+            10.7968624,
+            106.641245
+          ],
+          [
+            10.7968175,
+            106.6412303
+          ],
+          [
+            10.7965646,
+            106.6411473
+          ],
+          [
+            10.7963932,
+            106.641091
+          ],
+          [
+            10.7961423,
+            106.6410086
+          ],
+          [
+            10.795984,
+            106.6409567
+          ],
+          [
+            10.7959234,
+            106.6409369
+          ],
+          [
+            10.7956722,
+            106.6408544
+          ],
+          [
+            10.7956422,
+            106.6408446
+          ],
+          [
+            10.7955926,
+            106.6408283
+          ]
+        ],
+        "length_m": 399.0,
+        "way_nodes": [
+          11438217258,
+          13936395249,
+          11438217259,
+          11438217260,
+          11438395314,
+          5762622703,
+          11438395320,
+          6520407933,
+          2084677860,
+          11438395321,
+          2084678065,
+          11438234374,
+          3771486750,
+          11438395322,
+          3771486755,
+          10620447705,
+          11438217262,
+          11438217261,
+          366405690
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "tertiary"
+        ]
+      },
+      "match_error": null,
+      "level": "PENDING",
+      "level_reason": "future_start"
+    },
+    {
+      "record": {
+        "allowed_direction": "từ Trương Công Định đến Đồng Đen",
+        "backlog": false,
+        "city": "TP.HCM",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Trương Công Định",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Đối với đường Bàu Cát 1 (đoạn từ đường Trương Công Định đến Đồng Đen), cơ quan chức năng sẽ tổ chức giao thông hai chiều đối với xe 2 bánh và một chiều đối với xe ô tô theo hướng từ Trương Công Định đi Đồng Đen.",
+              "Các phương án này sẽ được áp dụng từ ngày 28-11."
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+          },
+          {
+            "evidence": [
+              "Đường Bàu Cát 1 đoạn từ đường Trương Công Định đến đường Đồng Đen: Tổ chức giao thông 2 chiều đối với xe 2 bánh, 1 chiều đối với xe ô tô theo hướng từ Trương Công Định đi Đồng Đen.",
+              "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+          }
+        ],
+        "start": "2026-11-28",
+        "street": "Bàu Cát 1",
+        "to_cross": "Đồng Đen",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": null
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7951675,
+            106.6407076
+          ],
+          [
+            10.7949739,
+            106.6411837
+          ],
+          [
+            10.794659,
+            106.6419581
+          ],
+          [
+            10.7945265,
+            106.642284
+          ],
+          [
+            10.7943767,
+            106.6426525
+          ],
+          [
+            10.79423,
+            106.6430133
+          ],
+          [
+            10.7939592,
+            106.6436793
+          ],
+          [
+            10.7938281,
+            106.6440016
+          ],
+          [
+            10.793699,
+            106.6443191
+          ],
+          [
+            10.7935512,
+            106.6446826
+          ]
+        ],
+        "length_m": 469.9,
+        "way_nodes": [
+          366447742,
+          11058090214,
+          2930603811,
+          3771485015,
+          366384461,
+          2930603810,
+          3771485007,
+          11443990829,
+          2930603812,
+          366446583
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "residential"
+        ]
+      },
+      "match_error": null,
+      "level": "PENDING",
+      "level_reason": "future_start"
+    },
+    {
+      "record": {
+        "allowed_direction": "từ Bàu Cát đến Trường Chinh",
+        "backlog": false,
+        "city": "TP.HCM",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Bàu Cát",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Còn với đường Đồng Đen (đoạn từ đường Bàu Cát đến Trường Chinh) sẽ được tổ chức giao thông một chiều các loại phương tiện theo hướng từ Bàu Cát đi Trường Chinh.",
+              "Các phương án này sẽ được áp dụng từ ngày 28-11."
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+          },
+          {
+            "evidence": [
+              "Đường Đồng Đen đoạn từ đường Bàu Cát đến đường Trường Chinh: Tổ chức giao thông 1 chiều các loại phương tiện theo hướng từ Bàu Cát đi đường Trường Chinh.",
+              "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+          }
+        ],
+        "start": "2026-11-28",
+        "street": "Đồng Đen",
+        "to_cross": "Trường Chinh",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "all"
+        ],
+        "ward_or_district": null
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7918115,
+            106.6439671
+          ],
+          [
+            10.7919137,
+            106.6440098
+          ],
+          [
+            10.7919399,
+            106.6440208
+          ],
+          [
+            10.7921893,
+            106.644125
+          ],
+          [
+            10.7922521,
+            106.6441513
+          ],
+          [
+            10.7923173,
+            106.6441786
+          ],
+          [
+            10.7925416,
+            106.6442727
+          ],
+          [
+            10.7928355,
+            106.644396
+          ],
+          [
+            10.7929034,
+            106.6444245
+          ],
+          [
+            10.7935512,
+            106.6446826
+          ],
+          [
+            10.7937087,
+            106.6447412
+          ],
+          [
+            10.7937475,
+            106.644755
+          ],
+          [
+            10.7939848,
+            106.6448391
+          ],
+          [
+            10.7942218,
+            106.6449216
+          ],
+          [
+            10.7942745,
+            106.64494
+          ],
+          [
+            10.7944225,
+            106.6449915
+          ],
+          [
+            10.7944747,
+            106.6450097
+          ],
+          [
+            10.7946941,
+            106.645086
+          ],
+          [
+            10.7949382,
+            106.645171
+          ],
+          [
+            10.795162,
+            106.6452489
+          ],
+          [
+            10.7953594,
+            106.6453176
+          ],
+          [
+            10.7954029,
+            106.6453327
+          ],
+          [
+            10.7955487,
+            106.6453835
+          ],
+          [
+            10.7956596,
+            106.6454221
+          ],
+          [
+            10.7957492,
+            106.6454528
+          ],
+          [
+            10.7959517,
+            106.6455222
+          ],
+          [
+            10.7961629,
+            106.6455945
+          ],
+          [
+            10.7966721,
+            106.645769
+          ],
+          [
+            10.7967787,
+            106.6458055
+          ],
+          [
+            10.7968902,
+            106.6458437
+          ]
+        ],
+        "length_m": 601.0,
+        "way_nodes": [
+          4618479910,
+          11438719521,
+          11438719522,
+          11438719520,
+          2930599203,
+          11438719525,
+          11809731186,
+          11438719526,
+          366472852,
+          366446583,
+          3771485024,
+          6330259179,
+          3771485032,
+          10033225143,
+          3771485054,
+          10033225141,
+          3771485048,
+          3771485049,
+          3771485053,
+          4461977630,
+          3771485056,
+          5765346246,
+          3771486662,
+          5765346244,
+          11443990839,
+          11443991999,
+          3771486660,
+          14290002614,
+          11443990859,
+          11443990833
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "tertiary"
+        ]
+      },
+      "match_error": null,
+      "level": "PENDING",
+      "level_reason": "future_start"
+    },
+    {
+      "record": {
+        "allowed_direction": null,
+        "backlog": false,
+        "city": "TP.HCM",
+        "daily_hours": "06:00-09:00,16:00-19:00",
+        "end": null,
+        "from_cross": "Trương Công Định",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Đồng thời cấm xe ô tô tải và xe ô tô khách lưu thông vào giờ cao điểm (từ 6h đến 9h và từ 16h đến 19h).",
+              "Đối với đường Bàu Cát 1 (đoạn từ đường Trương Công Định đến Đồng Đen), cơ quan chức năng sẽ tổ chức giao thông hai chiều đối với xe 2 bánh và một chiều đối với xe ô tô theo hướng từ Trương Công Định đi Đồng Đen.",
+              "Các phương án này sẽ được áp dụng từ ngày 28-11."
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+          },
+          {
+            "evidence": [
+              "Cấm xe ô tô tải và xe ô tô khách lưu thông vào giờ cao điểm (từ 6 giờ - 9 giờ và từ 16 giờ - 19 giờ).",
+              "Đường Bàu Cát 1 đoạn từ đường Trương Công Định đến đường Đồng Đen: Tổ chức giao thông 2 chiều đối với xe 2 bánh, 1 chiều đối với xe ô tô theo hướng từ Trương Công Định đi Đồng Đen.",
+              "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+            ],
+            "published": "2026-11-23",
+            "tier": "B",
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+          }
+        ],
+        "start": "2026-11-28",
+        "street": "Bàu Cát 1",
+        "to_cross": "Đồng Đen",
+        "turn": null,
+        "type": "VEHICLE_BAN",
+        "vehicles": [
+          "truck",
+          "coach"
+        ],
+        "ward_or_district": null
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7951675,
+            106.6407076
+          ],
+          [
+            10.7949739,
+            106.6411837
+          ],
+          [
+            10.794659,
+            106.6419581
+          ],
+          [
+            10.7945265,
+            106.642284
+          ],
+          [
+            10.7943767,
+            106.6426525
+          ],
+          [
+            10.79423,
+            106.6430133
+          ],
+          [
+            10.7939592,
+            106.6436793
+          ],
+          [
+            10.7938281,
+            106.6440016
+          ],
+          [
+            10.793699,
+            106.6443191
+          ],
+          [
+            10.7935512,
+            106.6446826
+          ]
+        ],
+        "length_m": 469.9,
+        "way_nodes": [
+          366447742,
+          11058090214,
+          2930603811,
+          3771485015,
+          366384461,
+          2930603810,
+          3771485007,
+          11443990829,
+          2930603812,
+          366446583
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "residential"
+        ]
+      },
+      "match_error": null,
+      "level": "PENDING",
+      "level_reason": "future_start"
+    }
+  ]
+}
