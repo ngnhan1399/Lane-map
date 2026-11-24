@@ -1,0 +1,253 @@
+{
+  "run_date": "2026-11-25",
+  "today": "2026-11-25",
+  "results": [
+    {
+      "record": {
+        "allowed_direction": null,
+        "city": "Đồng Hới",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Quốc lộ 1",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Lễ thông xe kỹ thuật được tỉnh Quảng Trị tổ chức sáng 24/11. Cầu Nhật Lệ 3 bắc qua sông Nhật Lệ, phía Đông kết nối với đường ven biển ở bán đảo Bảo Ninh, phường Đồng Hới; phía Tây cầu kết nối với quốc lộ 1A tại địa bàn xã Quảng Ninh (Quảng Trị).",
+              "Công trình có chiều dài hơn 2,8km, trong đó phần cầu dài hơn 561m."
+            ],
+            "published": "2026-11-24",
+            "tier": "B",
+            "url": "https://dantri.com.vn/thoi-su/thong-xe-ky-thuat-cau-vom-thep-mang-dang-nui-da-ben-song-nhat-le-20261124095439384.htm"
+          },
+          {
+            "evidence": [
+              "Sáng 24/11, tại phường Đồng Hới, tỉnh Quảng Trị (TP Đồng Hới, tỉnh Quảng Bình cũ), UBND tỉnh Quảng Trị tổ chức lễ thông xe kỹ thuật cầu Nhật Lệ 3 và đường hai đầu cầu.",
+              "Cầu Nhật Lệ 3 và đường hai đầu cầu có chiều dài hơn 2,8km, điểm đầu giao Quốc lộ 1A tại xã Quảng Ninh, điểm cuối giao đường Võ Nguyên Giáp tại phường Đồng Hới."
+            ],
+            "published": "2026-11-24",
+            "tier": "B",
+            "url": "https://vov.vn/xa-hoi/thong-xe-ky-thuat-cau-hon-1300-ty-dong-tai-tinh-quang-tri-post1352862.vov"
+          }
+        ],
+        "start": "2026-11-24",
+        "street": "Cầu Nhật Lệ 3",
+        "to_cross": "Võ Nguyên Giáp",
+        "turn": null,
+        "type": "NEW_ROAD_OPEN",
+        "vehicles": [
+          "all"
+        ],
+        "ward_or_district": "phường Đồng Hới"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://dantri.com.vn/thoi-su/thong-xe-ky-thuat-cau-vom-thep-mang-dang-nui-da-ben-song-nhat-le-20261124095439384.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://vov.vn/xa-hoi/thong-xe-ky-thuat-cau-hon-1300-ty-dong-tai-tinh-quang-tri-post1352862.vov",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": null,
+      "match_error": "street_not_found",
+      "level": "REJECT",
+      "level_reason": "street_not_found"
+    },
+    {
+      "record": {
+        "allowed_direction": null,
+        "city": "Điện Biên Phủ",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Quốc lộ 279",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Sáng 24/11, UBND tỉnh Điện Biên tổ chức lễ thông xe kỹ thuật tuyến đường Thanh Minh - đồi Độc Lập và khu dân cư (đường vành đai phía Bắc), thành phố Điện Biên Phủ, đánh dấu bước phát triển mới của hạ tầng giao thông đô thị vùng đất lịch sử.",
+              "Tuyến đường dài hơn 4,3 km, nối Quốc lộ 279 với Quốc lộ 12, tổng mức đầu tư khoảng 286 tỷ đồng."
+            ],
+            "published": "2026-11-24",
+            "tier": "B",
+            "url": "https://vov.vn/xa-hoi/thong-xe-duong-vanh-dai-phia-bac-mo-khong-gian-phat-trien-moi-cho-dien-bien-post1352846.vov"
+          }
+        ],
+        "start": "2026-11-24",
+        "street": "Thanh Minh - đồi Độc Lập",
+        "to_cross": "Quốc lộ 12",
+        "turn": null,
+        "type": "NEW_ROAD_OPEN",
+        "vehicles": [
+          "all"
+        ],
+        "ward_or_district": "phường Điện Biên Phủ"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://vov.vn/xa-hoi/thong-xe-duong-vanh-dai-phia-bac-mo-khong-gian-phat-trien-moi-cho-dien-bien-post1352846.vov",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": null,
+      "match_error": "street_not_found",
+      "level": "REJECT",
+      "level_reason": "street_not_found"
+    },
+    {
+      "record": {
+        "allowed_direction": null,
+        "city": "Hà Nội",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": null,
+        "notice_no": "1714/TB-SXD",
+        "sources": [
+          {
+            "evidence": [
+              "Sở Xây dựng Hà Nội vừa thông báo điều chỉnh tổ chức giao thông nút giao Trương Định - Đường vành đai 2,5 (Tân Mai) từ ngày 21/11 đến khi có thông báo thay thế.",
+              "Theo đó, Sở Xây dựng cấm tất cả các loại phương tiện quay đầu và rẽ trái trên trục Vành đai 2,5 - nút giao Trương Định (hướng hầm chui Kim Đồng đi Tân Mai và ngược lại). Các phương tiện phải đi thẳng qua nút, quay đầu tại điểm mở dải phân cách lân cận và rẽ phải vào đường Trương Định.",
+              "Tại nút giao Vành đai 2,5 - Trương Định đi Tân Mai, lực lượng chức năng cấm ô tô rẽ trái qua nút giao để đi Giải Phóng (hoặc hầm chui Kim Đồng) tại các khung giờ sáng 6-9h, chiều 16-19h30 hằng ngày. Các phương tiện ô tô phải rẽ phải vào phố Tân Mai, quay đầu tại điểm mở lân cận và đi thẳng vào Vành đai 2,5 hoặc qua hầm chui Kim Đồng."
+            ],
+            "published": "2026-11-21",
+            "tier": "B",
+            "url": "https://dantri.com.vn/thoi-su/ha-noi-to-chuc-lai-giao-thong-nut-giao-truong-dinh-vanh-dai-25-20261121094412179.htm"
+          },
+          {
+            "evidence": [
+              "Theo đó, từ ngày 21/11/2026, trên trục đường Vành đai 2,5 tại nút giao Trương Định, theo cả hai hướng từ hầm chui Kim Đồng đi Tân Mai và ngược lại, các phương tiện bị cấm quay đầu và rẽ trái. Phương tiện phải đi thẳng qua nút giao, quay đầu tại điểm mở dải phân cách lân cận và rẽ phải vào đường Trương Định.",
+              "Tại nút giao đường Vành đai 2,5-Trương Định đi Tân Mai, ô-tô bị cấm rẽ trái qua nút giao để đi Giải Phóng hoặc hầm chui Kim Đồng trong các khung giờ cao điểm buổi sáng từ 6 giờ đến 9 giờ và buổi chiều từ 16 giờ đến 19 giờ 30 phút hằng ngày."
+            ],
+            "published": "2026-11-21",
+            "tier": "B",
+            "url": "https://nhandan.vn/ha-noi-dieu-chinh-to-chuc-giao-thong-nut-giao-truong-dinh-vanh-dai-25-tu-ngay-2111-post1004341.html"
+          }
+        ],
+        "start": "2026-11-21",
+        "street": "Vành đai 2,5",
+        "to_cross": null,
+        "turn": "từ Vành đai 2,5 rẽ trái sang Trương Định bị cấm",
+        "type": "TURN_BAN",
+        "vehicles": [
+          "all"
+        ],
+        "ward_or_district": "phường Tân Mai"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://dantri.com.vn/thoi-su/ha-noi-to-chuc-lai-giao-thong-nut-giao-truong-dinh-vanh-dai-25-20261121094412179.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://nhandan.vn/ha-noi-dieu-chinh-to-chuc-giao-thong-nut-giao-truong-dinh-vanh-dai-25-tu-ngay-2111-post1004341.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": null,
+      "match_error": "street_not_found",
+      "level": "REJECT",
+      "level_reason": "street_not_found"
+    },
+    {
+      "record": {
+        "allowed_direction": null,
+        "city": "Hà Nội",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": null,
+        "notice_no": "1714/TB-SXD",
+        "sources": [
+          {
+            "evidence": [
+              "Sở Xây dựng Hà Nội vừa thông báo điều chỉnh tổ chức giao thông nút giao Trương Định - Đường vành đai 2,5 (Tân Mai) từ ngày 21/11 đến khi có thông báo thay thế.",
+              "Theo đó, Sở Xây dựng cấm tất cả các loại phương tiện quay đầu và rẽ trái trên trục Vành đai 2,5 - nút giao Trương Định (hướng hầm chui Kim Đồng đi Tân Mai và ngược lại). Các phương tiện phải đi thẳng qua nút, quay đầu tại điểm mở dải phân cách lân cận và rẽ phải vào đường Trương Định."
+            ],
+            "published": "2026-11-21",
+            "tier": "B",
+            "url": "https://dantri.com.vn/thoi-su/ha-noi-to-chuc-lai-giao-thong-nut-giao-truong-dinh-vanh-dai-25-20261121094412179.htm"
+          },
+          {
+            "evidence": [
+              "Theo đó, từ ngày 21/11/2026, trên trục đường Vành đai 2,5 tại nút giao Trương Định, theo cả hai hướng từ hầm chui Kim Đồng đi Tân Mai và ngược lại, các phương tiện bị cấm quay đầu và rẽ trái. Phương tiện phải đi thẳng qua nút giao, quay đầu tại điểm mở dải phân cách lân cận và rẽ phải vào đường Trương Định."
+            ],
+            "published": "2026-11-21",
+            "tier": "B",
+            "url": "https://nhandan.vn/ha-noi-dieu-chinh-to-chuc-giao-thong-nut-giao-truong-dinh-vanh-dai-25-tu-ngay-2111-post1004341.html"
+          }
+        ],
+        "start": "2026-11-21",
+        "street": "Vành đai 2,5",
+        "to_cross": null,
+        "turn": "từ Vành đai 2,5 quay đầu sang Vành đai 2,5 bị cấm",
+        "type": "TURN_BAN",
+        "vehicles": [
+          "all"
+        ],
+        "ward_or_district": "phường Tân Mai"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://dantri.com.vn/thoi-su/ha-noi-to-chuc-lai-giao-thong-nut-giao-truong-dinh-vanh-dai-25-20261121094412179.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://nhandan.vn/ha-noi-dieu-chinh-to-chuc-giao-thong-nut-giao-truong-dinh-vanh-dai-25-tu-ngay-2111-post1004341.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": null,
+      "match_error": "street_not_found",
+      "level": "REJECT",
+      "level_reason": "street_not_found"
+    }
+  ]
+}
