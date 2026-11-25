@@ -1,0 +1,498 @@
+{
+  "run_date": "2026-11-26",
+  "today": "2026-11-26",
+  "results": [
+    {
+      "record": {
+        "allowed_direction": "từ Công trường Quốc tế đến Cách Mạng Tháng Tám",
+        "city": "TP.HCM",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Công trường Quốc tế",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Theo đó, từ ngày 4-10, đường Võ Văn Tần, đoạn từ Công trường Quốc tế (khu vực Hồ Con Rùa) đến đường Cách Mạng Tháng Tám, xe máy được lưu thông hai chiều. Đối với ô tô tiếp tục lưu thông một chiều như hiện nay.",
+              "Trước đây, người đi xe máy từ hướng Cách Mạng Tháng Tám về khu vực Hồ Con Rùa phải đi vòng qua các tuyến như Điện Biên Phủ, Nguyễn Thị Diệu."
+            ],
+            "published": "2026-10-05",
+            "tier": "B",
+            "url": "https://www.sggp.org.vn/tphcm-dieu-chinh-giao-thong-mot-so-tuyen-duong-de-han-che-un-tac-post874946.html"
+          },
+          {
+            "evidence": [
+              "Theo thông báo của Sở Xây dựng TP.HCM, từ ngày 4.10, xe máy được lưu thông hai chiều trên đoạn Võ Văn Tần từ Công trường Quốc tế đến Cách Mạng Tháng Tám, trong khi ô tô vẫn chạy một chiều theo hướng từ Công trường Quốc tế đến Cách Mạng Tháng Tám."
+            ],
+            "published": "2026-10-09",
+            "tier": "B",
+            "url": "https://thanhnien.vn/sau-gan-1-tuan-xe-may-di-2-chieu-duong-vo-van-tan-gio-ra-sao-185261006144924118.htm"
+          },
+          {
+            "evidence": [
+              "Cụ thể, thành phố tổ chức cho xe máy lưu thông hai chiều trên đoạn Võ Văn Tần từ Công trường Quốc tế (khu vực Hồ Con Rùa) đến đường Cách Mạng Tháng Tám, dài khoảng 1,2 km. Trong khi đó, ô tô vẫn chỉ được lưu thông một chiều theo hướng từ Công trường Quốc tế đến Cách Mạng Tháng Tám.",
+              "Quy định phân luồng này thực hiện từ ngày 4/10 trong khi đường Võ Văn Tần từ Công trường Quốc tế (khu vực Hồ Con Rùa) đến đường Cách Mạng Tháng Tám trước đây các phương tiện chỉ được lưu thông 1 chiều."
+            ],
+            "published": "2026-10-09",
+            "tier": "B",
+            "url": "https://nhandan.vn/thanh-pho-ho-chi-minh-hang-loat-thay-doi-phan-luong-giao-thong-phuc-vu-thi-cong-tuyen-metro-so-2-post994088.html"
+          }
+        ],
+        "start": "2026-10-04",
+        "street": "Võ Văn Tần",
+        "to_cross": "Cách Mạng Tháng Tám",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "car"
+        ],
+        "ward_or_district": null
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://www.sggp.org.vn/tphcm-dieu-chinh-giao-thong-mot-so-tuyen-duong-de-han-che-un-tac-post874946.html",
+            "tier": "B"
+          },
+          {
+            "url": "https://thanhnien.vn/sau-gan-1-tuan-xe-may-di-2-chieu-duong-vo-van-tan-gio-ra-sao-185261006144924118.htm",
+            "tier": "B"
+          },
+          {
+            "url": "https://nhandan.vn/thanh-pho-ho-chi-minh-hang-loat-thay-doi-phan-luong-giao-thong-phuc-vu-thi-cong-tuyen-metro-so-2-post994088.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7823165,
+            106.6956586
+          ],
+          [
+            10.7822401,
+            106.6955873
+          ],
+          [
+            10.7818945,
+            106.6952645
+          ],
+          [
+            10.7815869,
+            106.6949772
+          ],
+          [
+            10.7815466,
+            106.6949396
+          ],
+          [
+            10.7814514,
+            106.6948507
+          ],
+          [
+            10.781361,
+            106.6947663
+          ],
+          [
+            10.7809101,
+            106.6943452
+          ],
+          [
+            10.7806174,
+            106.6940718
+          ],
+          [
+            10.7805803,
+            106.6940372
+          ],
+          [
+            10.7805173,
+            106.6939783
+          ],
+          [
+            10.7804678,
+            106.6939322
+          ],
+          [
+            10.7799322,
+            106.693432
+          ],
+          [
+            10.7795174,
+            106.6930446
+          ],
+          [
+            10.7794538,
+            106.6929852
+          ],
+          [
+            10.7793943,
+            106.6929296
+          ],
+          [
+            10.7793216,
+            106.6928575
+          ],
+          [
+            10.7791297,
+            106.6926671
+          ],
+          [
+            10.7783782,
+            106.6919514
+          ],
+          [
+            10.7782353,
+            106.6918153
+          ],
+          [
+            10.7781848,
+            106.6917672
+          ],
+          [
+            10.7781083,
+            106.6916967
+          ],
+          [
+            10.7778504,
+            106.6914592
+          ],
+          [
+            10.7777162,
+            106.6913317
+          ],
+          [
+            10.7770814,
+            106.6907499
+          ],
+          [
+            10.7769384,
+            106.6906189
+          ],
+          [
+            10.7765415,
+            106.6902537
+          ],
+          [
+            10.7762695,
+            106.6900034
+          ],
+          [
+            10.7759134,
+            106.6896801
+          ],
+          [
+            10.7757686,
+            106.6895486
+          ],
+          [
+            10.7755004,
+            106.6893052
+          ],
+          [
+            10.774973,
+            106.6888264
+          ],
+          [
+            10.7749098,
+            106.6887716
+          ],
+          [
+            10.7746243,
+            106.6885245
+          ],
+          [
+            10.7744121,
+            106.6883369
+          ],
+          [
+            10.774377,
+            106.688302
+          ],
+          [
+            10.7742745,
+            106.6882001
+          ]
+        ],
+        "length_m": 1209.8,
+        "way_nodes": [
+          411918058,
+          10811927861,
+          5778360103,
+          14247137064,
+          14247137065,
+          411925942,
+          14247137067,
+          10727644824,
+          14247137058,
+          14247137074,
+          411926212,
+          14247137075,
+          5778360123,
+          14247137055,
+          14247137084,
+          411918904,
+          14247137085,
+          11494719176,
+          12201264527,
+          14247137089,
+          411924053,
+          14247137090,
+          411925338,
+          411918255,
+          12482698522,
+          411925919,
+          12389846172,
+          5763168795,
+          12482698524,
+          411925922,
+          3744246112,
+          5763263830,
+          12922491622,
+          5763263841,
+          6786732259,
+          14268084065,
+          411926551
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "secondary"
+        ]
+      },
+      "match_error": null,
+      "level": "HARD",
+      "level_reason": null,
+      "banned": "backward",
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": true,
+          "coverage": 1.0,
+          "route_km": 1.212
+        },
+        "auto": {
+          "straight_through": false,
+          "coverage": 0.04,
+          "route_km": 1.683
+        },
+        "osm_knows": false
+      },
+      "osm_knows": true,
+      "valhalla_allowed": {
+        "motor_scooter": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 1.212
+        },
+        "auto": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 1.212
+        },
+        "suspect_direction": false,
+        "scooter_only_divergence": false
+      },
+      "review_flag": "osm_knows_override_car_only: auto di vong (OSM da biet cam o-to chieu CMT8->Ho Con Rua); motor_scooter di thang la dung quy dinh (xe may 2 chieu tu 4/10); check_banned doi ca 2 costing di vong nen sai voi ONEWAY chi ap cho car"
+    },
+    {
+      "record": {
+        "allowed_direction": "từ Điện Biên Phủ đến Nguyễn Văn Giai",
+        "city": "TP.HCM",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": "Nguyễn Văn Giai",
+        "notice_no": null,
+        "sources": [
+          {
+            "evidence": [
+              "Cụ thể, trên đường Mai Thị Lựu, đoạn từ Nguyễn Văn Giai đến Điện Biên Phủ, tổ chức lưu thông 2 chiều đối với ô tô con và xe 2 bánh; riêng xe tải và xe khách lưu thông một chiều theo hướng từ Điện Biên Phủ đến Nguyễn Văn Giai."
+            ],
+            "published": "2026-10-05",
+            "tier": "B",
+            "url": "https://www.sggp.org.vn/tphcm-dieu-chinh-giao-thong-mot-so-tuyen-duong-de-han-che-un-tac-post874946.html"
+          }
+        ],
+        "start": "2026-10-05",
+        "street": "Mai Thị Lựu",
+        "to_cross": "Điện Biên Phủ",
+        "turn": null,
+        "type": "ONEWAY",
+        "vehicles": [
+          "truck",
+          "coach"
+        ],
+        "ward_or_district": "phường Tân Định"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://www.sggp.org.vn/tphcm-dieu-chinh-giao-thong-mot-so-tuyen-duong-de-han-che-un-tac-post874946.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "allowed_direction_dest": true,
+          "start": true,
+          "start_via_published": true,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": {
+        "geometry_raw": [
+          [
+            10.7926151,
+            106.6973503
+          ],
+          [
+            10.7925874,
+            106.69753
+          ],
+          [
+            10.7925736,
+            106.6975777
+          ],
+          [
+            10.7925532,
+            106.6976228
+          ],
+          [
+            10.7924943,
+            106.6977014
+          ],
+          [
+            10.7922495,
+            106.6979656
+          ],
+          [
+            10.7921478,
+            106.6980753
+          ],
+          [
+            10.7920487,
+            106.6981823
+          ],
+          [
+            10.7916741,
+            106.6985866
+          ]
+        ],
+        "length_m": 174.4,
+        "way_nodes": [
+          411919051,
+          10196455256,
+          14357970511,
+          10196455255,
+          411919294,
+          5772015879,
+          5772015877,
+          411919296,
+          1998235285
+        ],
+        "osm_blocked_tags": false,
+        "osm_highway_values": [
+          "residential"
+        ]
+      },
+      "match_error": null,
+      "level": "SOFT",
+      "level_reason": null,
+      "banned": "forward",
+      "valhalla_banned": {
+        "motor_scooter": {
+          "straight_through": true,
+          "coverage": 1.0,
+          "route_km": 0.174
+        },
+        "auto": {
+          "straight_through": true,
+          "coverage": 1.0,
+          "route_km": 0.174
+        },
+        "osm_knows": false
+      },
+      "osm_knows": false,
+      "valhalla_allowed": {
+        "motor_scooter": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 0.174
+        },
+        "auto": {
+          "direct": true,
+          "coverage": 1.0,
+          "route_km": 0.174
+        },
+        "suspect_direction": false,
+        "scooter_only_divergence": false
+      }
+    },
+    {
+      "record": {
+        "allowed_direction": null,
+        "city": "Hà Nội",
+        "daily_hours": null,
+        "end": null,
+        "from_cross": null,
+        "notice_no": "1738/TB-SXD",
+        "sources": [
+          {
+            "evidence": [
+              "Sở Xây dựng Hà Nội vừa ban hành Thông báo số 1738/TB-SXD về việc chấp thuận phương án tổ chức giao thông trên đoạn tuyến từ ngõ 541 đường Cổ Linh đến nút giao cao tốc Hà Nội-Hải Phòng, thuộc địa bàn phường Long Biên.",
+              "Thời gian thực hiện bắt đầu từ ngày 25/11/2026 đến khi có thông báo thay thế.",
+              "Theo phương án được phê duyệt, tại khu vực nút giao ngõ 541 đường Cổ Linh, cơ quan chức năng sẽ đóng nút đèn tín hiệu giao thông tại dải phân cách giữa. Các phương tiện được lưu thông đi thẳng liên tục qua khu vực nút giao theo cả hai chiều; việc quay đầu được thực hiện tại điểm mở tiếp theo trên tuyến."
+            ],
+            "published": "2026-11-25",
+            "tier": "B",
+            "url": "https://nhandan.vn/ha-noi-phan-luong-giao-thong-phuc-vu-thi-cong-duong-tren-cao-co-linh-tu-2511-post1005124.html"
+          }
+        ],
+        "start": "2026-11-25",
+        "street": "Cổ Linh",
+        "to_cross": null,
+        "turn": "từ Cổ Linh quay đầu sang Cổ Linh bị cấm",
+        "type": "TURN_BAN",
+        "vehicles": [
+          "all"
+        ],
+        "ward_or_district": "phường Long Biên"
+      },
+      "evidence": {
+        "valid_sources": [
+          {
+            "url": "https://nhandan.vn/ha-noi-phan-luong-giao-thong-phuc-vu-thi-cong-duong-tren-cao-co-linh-tu-2511-post1005124.html",
+            "tier": "B"
+          }
+        ],
+        "field_checks": {
+          "street": true,
+          "from_cross": true,
+          "to_cross": true,
+          "turn_dest": true,
+          "turn_verb": true,
+          "start": true,
+          "start_via_published": false,
+          "core_single_article": true
+        },
+        "reject_reason": null
+      },
+      "match": null,
+      "match_error": "ambiguous",
+      "level": "REJECT",
+      "level_reason": "ambiguous"
+    }
+  ]
+}
