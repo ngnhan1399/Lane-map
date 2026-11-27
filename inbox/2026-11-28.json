@@ -1,0 +1,201 @@
+{
+  "run_date": "2026-11-28",
+  "agent": "muse",
+  "articles_read": 71,
+  "records": [
+    {
+      "allowed_direction": "từ Đồng Đen đến Trương Công Định",
+      "backlog": false,
+      "city": "TP.HCM",
+      "daily_hours": null,
+      "end": null,
+      "from_cross": "Đồng Đen",
+      "note": "Trùng đoạn với VEHICLE_BAN Trường Chinh (từ 7/11, cấm tải/khách hướng Trương Công Định -> Đồng Đen): ONEWAY mới cấm mọi phương tiện cùng hướng đó từ 28/11. Chưa có luật thay thế — giữ cả hai, chờ chủ dự án chốt.",
+      "notice_no": null,
+      "sources": [
+        {
+          "evidence": [
+            "Cụ thể, đường Trường Chinh (đoạn từ đường Đồng Đen đến Trương Công Định) sẽ tổ chức giao thông một chiều các loại phương tiện theo hướng từ Đồng Đen đi Trương Công Định.",
+            "Các phương án này sẽ được áp dụng từ ngày 28-11."
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+        },
+        {
+          "evidence": [
+            "Đường Trường Chinh đoạn từ đường Đồng Đen đến đường Trương Công Định: Tổ chức giao thông 1 chiều các loại phương tiện theo hướng từ Đồng Đen đi Trương Công Định.",
+            "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+        }
+      ],
+      "start": "2026-11-28",
+      "street": "Trường Chinh",
+      "to_cross": "Trương Công Định",
+      "turn": null,
+      "type": "ONEWAY",
+      "vehicles": [
+        "all"
+      ],
+      "ward_or_district": null
+    },
+    {
+      "allowed_direction": "từ Trường Chinh đến Ba Vân",
+      "backlog": false,
+      "city": "TP.HCM",
+      "daily_hours": null,
+      "end": null,
+      "from_cross": "Trường Chinh",
+      "notice_no": null,
+      "sources": [
+        {
+          "evidence": [
+            "Đường Trương Công Định (đoạn từ đường Trường Chinh đến Ba Vân) sẽ được tổ chức giao thông một chiều các loại phương tiện theo hướng từ Trường Chinh đi Ba Vân.",
+            "Các phương án này sẽ được áp dụng từ ngày 28-11."
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+        },
+        {
+          "evidence": [
+            "Đường Trương Công Định đoạn từ đường Trường Chinh đến đường Ba Vân: Các loại phương tiện chỉ lưu thông 1 chiều theo hướng từ Trường Chinh đi Ba Vân.",
+            "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+        }
+      ],
+      "start": "2026-11-28",
+      "street": "Trương Công Định",
+      "to_cross": "Ba Vân",
+      "turn": null,
+      "type": "ONEWAY",
+      "vehicles": [
+        "all"
+      ],
+      "ward_or_district": null
+    },
+    {
+      "allowed_direction": "từ Trương Công Định đến Đồng Đen",
+      "backlog": false,
+      "city": "TP.HCM",
+      "daily_hours": null,
+      "end": null,
+      "from_cross": "Trương Công Định",
+      "notice_no": null,
+      "sources": [
+        {
+          "evidence": [
+            "Đối với đường Bàu Cát 1 (đoạn từ đường Trương Công Định đến Đồng Đen), cơ quan chức năng sẽ tổ chức giao thông hai chiều đối với xe 2 bánh và một chiều đối với xe ô tô theo hướng từ Trương Công Định đi Đồng Đen.",
+            "Các phương án này sẽ được áp dụng từ ngày 28-11."
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+        },
+        {
+          "evidence": [
+            "Đường Bàu Cát 1 đoạn từ đường Trương Công Định đến đường Đồng Đen: Tổ chức giao thông 2 chiều đối với xe 2 bánh, 1 chiều đối với xe ô tô theo hướng từ Trương Công Định đi Đồng Đen.",
+            "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+        }
+      ],
+      "start": "2026-11-28",
+      "street": "Bàu Cát 1",
+      "to_cross": "Đồng Đen",
+      "turn": null,
+      "type": "ONEWAY",
+      "vehicles": [
+        "car"
+      ],
+      "ward_or_district": null
+    },
+    {
+      "allowed_direction": "từ Bàu Cát đến Trường Chinh",
+      "backlog": false,
+      "city": "TP.HCM",
+      "daily_hours": null,
+      "end": null,
+      "from_cross": "Bàu Cát",
+      "notice_no": null,
+      "sources": [
+        {
+          "evidence": [
+            "Còn với đường Đồng Đen (đoạn từ đường Bàu Cát đến Trường Chinh) sẽ được tổ chức giao thông một chiều các loại phương tiện theo hướng từ Bàu Cát đi Trường Chinh.",
+            "Các phương án này sẽ được áp dụng từ ngày 28-11."
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+        },
+        {
+          "evidence": [
+            "Đường Đồng Đen đoạn từ đường Bàu Cát đến đường Trường Chinh: Tổ chức giao thông 1 chiều các loại phương tiện theo hướng từ Bàu Cát đi đường Trường Chinh.",
+            "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+        }
+      ],
+      "start": "2026-11-28",
+      "street": "Đồng Đen",
+      "to_cross": "Trường Chinh",
+      "turn": null,
+      "type": "ONEWAY",
+      "vehicles": [
+        "all"
+      ],
+      "ward_or_district": null
+    },
+    {
+      "allowed_direction": null,
+      "backlog": false,
+      "city": "TP.HCM",
+      "daily_hours": "06:00-09:00,16:00-19:00",
+      "end": null,
+      "from_cross": "Trương Công Định",
+      "notice_no": null,
+      "sources": [
+        {
+          "evidence": [
+            "Đồng thời cấm xe ô tô tải và xe ô tô khách lưu thông vào giờ cao điểm (từ 6h đến 9h và từ 16h đến 19h).",
+            "Đối với đường Bàu Cát 1 (đoạn từ đường Trương Công Định đến Đồng Đen), cơ quan chức năng sẽ tổ chức giao thông hai chiều đối với xe 2 bánh và một chiều đối với xe ô tô theo hướng từ Trương Công Định đi Đồng Đen.",
+            "Các phương án này sẽ được áp dụng từ ngày 28-11."
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://tuoitre.vn/print/tu-28-11-mot-doan-duong-truong-chinh-thanh-mot-chieu-de-thi-cong-metro-so-2-ben-thanh-tham-luong-100261123182034581.htm"
+        },
+        {
+          "evidence": [
+            "Cấm xe ô tô tải và xe ô tô khách lưu thông vào giờ cao điểm (từ 6 giờ - 9 giờ và từ 16 giờ - 19 giờ).",
+            "Đường Bàu Cát 1 đoạn từ đường Trương Công Định đến đường Đồng Đen: Tổ chức giao thông 2 chiều đối với xe 2 bánh, 1 chiều đối với xe ô tô theo hướng từ Trương Công Định đi Đồng Đen.",
+            "Kể từ 28.11, điều chỉnh tổ chức giao thông tại khu vực đường Trường Chinh, Trương Công Định, Bàu Cát 1, Đồng Đen như sau:"
+          ],
+          "published": "2026-11-23",
+          "tier": "B",
+          "url": "https://thanhnien.vn/truc-truong-chinh-lai-doi-phuong-an-luu-thong-nguoi-dan-luu-y-ne-ket-xe-185261123180211823.htm"
+        }
+      ],
+      "start": "2026-11-28",
+      "street": "Bàu Cát 1",
+      "to_cross": "Đồng Đen",
+      "turn": null,
+      "type": "VEHICLE_BAN",
+      "vehicles": [
+        "truck",
+        "coach"
+      ],
+      "ward_or_district": null
+    }
+  ]
+}
